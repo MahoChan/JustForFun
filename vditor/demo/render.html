@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+    <meta name="theme-color" content="#f1f7fe">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>Vditor: ♏ An In-browser Markdown editor, support WYSIWYG, Instant Rendering (Typora-like) and Split View
+        modes. 一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。</title>
+    <meta name="description"
+          content="Vditor 支持三种所见即所得（wysiwyg）、即时渲染（ir）、分屏预览（sv）模式，支持大纲、数学公式、脑图、图表、流程图、甘特图、时序图、五线谱、多媒体、语音阅读、标题锚点、代码高亮及复制、graphviz 渲染。"/>
+    <meta property="og:description"
+          content="Vditor 支持三种所见即所得（wysiwyg）、即时渲染（ir）、分屏预览（sv）模式，支持大纲、数学公式、脑图、图表、流程图、甘特图、时序图、五线谱、多媒体、语音阅读、标题锚点、代码高亮及复制、graphviz 渲染。"/>
+    <meta name="twitter:description" property="og:description" itemprop="description"
+          content="Vditor 支持三种所见即所得（wysiwyg）、即时渲染（ir）、分屏预览（sv）模式，支持大纲、数学公式、脑图、图表、流程图、甘特图、时序图、五线谱、多媒体、语音阅读、标题锚点、代码高亮及复制、graphviz 渲染。"/>
+    <link rel="dns-prefetch" href="//unpkg.com/"/>
+    <link rel="preconnect" href="https://unpkg.com">
+    <link rel="icon" type="image/png" href="https://unpkg.com/vditor/dist/images/logo.png"/>
+    <link rel="apple-touch-icon" href="https://unpkg.com/vditor/dist/images/logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://unpkg.com/vditor/dist/images/logo.png">
+    <meta name="copyright" content="B3log"/>
+    <meta http-equiv="Window-target" content="_top"/>
+    <meta property="og:locale" content="zh-cmn-Hans"/>
+    <meta property="og:title"
+          content="Vditor: ♏ An In-browser Markdown editor, support WYSIWYG,  Instant Rendering (Typora-like) and Split View modes. 一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。"/>
+    <meta property="og:site_name" content="Blog-vditor"/>
+    <meta property="og:url" content="https://b3log.org/vditor"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:domain" content="b3log.org"/>
+    <meta name="twitter:title" property="og:title" itemprop="b3lig vditor"
+          content="Vditor: ♏ An In-browser Markdown editor, support WYSIWYG,  Instant Rendering (Typora-like) and Split View modes. 一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。"/>
+    <meta name="twitter:site" content="@B3logOS"/>
+    <meta name="twitter:url" content="https://b3log.org/vditor"/>
+    <meta property="og:image" content="https://unpkg.com/vditor/dist/images/logo.png"/>
+    <meta name="twitter:image" content="https://unpkg.com/vditor/dist/images/logo.png"/>
+    <style>
+        body {
+            margin: 0;
+        }
+
+        .nav {
+            text-align: center;
+            margin: 20px 0
+        }
+
+
+        .link {
+            cursor: pointer;
+            color: #4285f4;
+        }
+
+        #previewWrap {
+            padding: 0 226px 20px 20px;
+        }
+
+        #preview {
+            margin: 0 auto;
+            max-width: 768px;
+        }
+
+        #outline {
+            display: none;
+            position: fixed;
+            width: 186px;
+            top: 64px;
+            right: 20px;
+            bottom: 20px;
+            overflow: auto;
+            font-size: 12px;
+            border-left: 1px solid var(--border-color);
+            border-right: 0;
+            --border-color: #eee;
+            --toolbar-icon-hover-color: #4285f4;
+            --textarea-text-color: #616161;
+            --hover-background-color: #f6f8fa;
+        }
+
+        #outline.dark {
+            --border-color: #d1d5da;
+            --toolbar-icon-hover-color: #fff;
+            --textarea-text-color: #a6aab0;
+            --hover-background-color: #444d56;
+        }
+
+        .vditor-reset ul[data-style="*"] {
+            list-style-type: disc
+        }
+
+        .vditor-reset ul[data-style="*"] ul {
+            list-style-type: circle
+        }
+
+        .vditor-reset ul[data-style="*"] ul ul {
+            list-style-type: square
+        }
+
+        .vditor-reset ul[data-style="+"] {
+            list-style-type: "\2764";
+        }
+
+        .vditor-reset ul[data-style="+"] ul {
+            list-style-type: "\1f49a"
+        }
+
+        .vditor-reset ul[data-style="+"] ul ul {
+            list-style-type: "\1f49b"
+        }
+
+        .vditor-reset ul[data-style="-"] {
+            list-style-type: korean-hangul-formal
+        }
+
+        .vditor-reset ul[data-style="-"] ul {
+            list-style-type: decimal-leading-zero
+        }
+
+        .vditor-reset ul[data-style="-"] ul ul {
+            list-style-type: lower-alpha
+        }
+
+        .vditor-reset ol[data-style="1)"] {
+            list-style-type: simp-chinese-formal
+        }
+
+        .vditor-reset ol[data-style="1)"] ol {
+            list-style-type: simp-chinese-informal
+        }
+
+        .vditor-reset ol[data-style="1)"] ol ol {
+            list-style-type: trad-chinese-formal
+        }
+
+        @media screen and (max-width: 768px) {
+            #previewWrap {
+                padding: 0 20px 20px 0;
+            }
+
+            #outline {
+                display: none !important;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="vditor-reset nav">
+    <a class="link" href="https://b3log.org/vditor" target="_blank">官网</a> &nbsp; &nbsp;
+    <a class="link" href="/">Editor</a> &nbsp; &nbsp;
+    <button onclick="setTheme('dark')">Dark Mode</button> &nbsp; &nbsp;
+    <button onclick="setTheme('light')">Light Mode</button>
+</div>
+<div class="markdown-list nav">
+    <span class="link" data-file="zh_CN">zh_CN</span> &nbsp; &nbsp;
+    <span class="link" data-file="ko_KR">ko_KR</span> &nbsp; &nbsp;
+    <span class="link" data-file="cute-list">cute-list</span> &nbsp; &nbsp;
+    <span class="link" data-file="entity">entity</span> &nbsp; &nbsp;
+</div>
+<div id="previewWrap">
+    <div id="preview" class="preview"></div>
+</div>
+<div id="outline"></div>
+</body>
+</html>

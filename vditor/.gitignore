@@ -1,0 +1,7 @@
+.idea
+**/.DS_Store
+/dist
+/node_modules
+/demo/dist
+/coverage
+.vscode/*
