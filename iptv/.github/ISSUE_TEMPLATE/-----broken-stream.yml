@@ -1,0 +1,50 @@
+name: 🛠 Broken Stream
+description: Report a broken stream
+title: 'Replace: '
+labels: ['🛠 broken stream']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the issue template as much as you can so we could efficiently process your request
+
+  - type: input
+    attributes:
+      label: Broken Link
+      description: Please specify the broken link from a playlist
+      placeholder: 'https://lnc-kdfw-fox-aws.tubi.video/index.m3u8'
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: What happened to the stream?
+      options:
+        - Not loading
+        - Constantly interrupts/lagging
+        - Stuck at a single frame
+        - I see visual artifacts
+        - Shows looped video
+        - Shows the wrong channel
+        - Displays a message asking to renew subscription
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Possible Replacement
+      placeholder: 'https://lnc-kdfw-fox-aws.tubi.video/index.m3u8'
+
+  - type: textarea
+    attributes:
+      label: Notes
+      placeholder: 'Anything else we should know?'
+
+  - type: checkboxes
+    attributes:
+      label: Please confirm the following
+      options:
+        - label: I have read [Contributing Guide](https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md#report-a-broken-stream)
+          required: true
