@@ -1,0 +1,5 @@
+node_modules
+.artifacts
+.secrets
+.actrc
+.DS_Store

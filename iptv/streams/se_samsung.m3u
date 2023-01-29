@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ThePetCollectiveSweden.se" status="timeout",The Pet Collective International
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Are we there Yet? [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Bloomberg Quicktake
+https://bloomberg-quicktake-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Bloomberg TV+
+https://bloomberg-bloombergtv-3-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Euronews English (720p) [Not 24/7]
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Failarmy International
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Fashion TV
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Filmstream
+https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Fuel TV (1080p)
+https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Go Usa TV
+https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Guardian
+https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Gusto TV
+https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Museum TV Fast
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Myzen Fit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",People are Awesome
+https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Radical Docs
+https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Rakuten Action
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Rakuten Comedy
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Rakuten Drama
+https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Rakuten Family
+https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Rakuten Spotlight
+https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Tastemade
+https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Travelxp
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",WildEarth [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",World Poker Tour
+https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
