@@ -1,0 +1,4241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pyfa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-28 15:28+0300\n"
+"PO-Revision-Date: 2021-11-03 23:22\n"
+"Last-Translator: \n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: pyfa\n"
+"X-Crowdin-Project-ID: 411502\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /master/locale/lang.pot\n"
+"X-Crowdin-File-ID: 68\n"
+
+#: gui/builtinStatsViews/firepowerViewFull.py:107
+msgid " DPS: "
+msgstr " 초당 피해량: "
+
+#: gui/builtinContextMenus/itemRemove.py:44
+msgid " Stack"
+msgstr " 모듈 묶기"
+
+#: gui/builtinStatsViews/firepowerViewFull.py:100
+msgid " Volley: "
+msgstr " 알파 샷: "
+
+#: gui/builtinItemStatsViews/itemProperties.py:98
+#, python-format
+msgid "%d attribute."
+msgid_plural "%d attributes."
+msgstr[0] "%d 속성"
+
+#: gui/mainMenuBar.py:73
+msgid "&Backup All Fittings"
+msgstr "&모든 피팅 백업"
+
+#: gui/mainMenuBar.py:104
+msgid "&Browse ESI Fittings"
+msgstr "&ESI 피팅 보기"
+
+#: gui/mainMenuBar.py:111
+msgid "&Character"
+msgstr "&캐릭터"
+
+#: gui/mainMenuBar.py:144
+msgid "&Character Editor"
+msgstr "&캐릭터 에디터"
+
+#: gui/mainMenuBar.py:70
+msgid "&Close All Tabs"
+msgstr "&모든 탭 닫기"
+
+#: gui/mainMenuBar.py:69
+msgid "&Close Tab"
+msgstr "&탭 닫기"
+
+#: gui/mainMenuBar.py:150
+msgid "&Damage Pattern Editor"
+msgstr "&데미지 패턴 에디터"
+
+#: gui/mainMenuBar.py:143
+msgid "&Editors"
+msgstr "&에디터"
+
+#: gui/mainMenuBar.py:92
+msgid "&Export Fitting"
+msgstr "&피팅 내보내기"
+
+#: gui/mainMenuBar.py:119
+msgid "&Export Skills Needed"
+msgstr "&필요한 스킬 내보내기"
+
+#: gui/mainMenuBar.py:66 gui/propertyEditor.py:42
+msgid "&File"
+msgstr "&파일"
+
+#: gui/mainMenuBar.py:161
+msgid "&Forums"
+msgstr "&포럼"
+
+#: gui/mainMenuBar.py:88
+msgid "&From Clipboard"
+msgstr "&클립보드에서"
+
+#: gui/mainMenuBar.py:135
+msgid "&Global"
+msgstr "&글로벌"
+
+#: gui/mainMenuBar.py:96
+msgid "&Graphs"
+msgstr "&그래프"
+
+#: gui/mainMenuBar.py:159
+msgid "&Help"
+msgstr "&도움말"
+
+#: gui/mainMenuBar.py:147
+msgid "&Implant Set Editor"
+msgstr "&임플란트 세트 에디터"
+
+#: gui/mainMenuBar.py:118
+msgid "&Import Character File"
+msgstr "&캐릭터 파일 불러오기"
+
+#: gui/mainMenuBar.py:91
+msgid "&Import Fittings"
+msgstr "&피팅 불러오기"
+
+#: gui/mainMenuBar.py:122
+msgid "&Manage ESI Characters"
+msgstr "&ESI 캐릭터 관리"
+
+#: gui/mainMenuBar.py:68
+msgid "&New Tab"
+msgstr "&새 탭"
+
+#: gui/mainMenuBar.py:95
+msgid "&Optimize Fit Price"
+msgstr "&피팅 가격 최적화"
+
+#: gui/mainMenuBar.py:137
+msgid "&Preferences"
+msgstr "&설정"
+
+#: gui/mainMenuBar.py:84
+msgid "&Redo"
+msgstr "&다시하기"
+
+#: gui/mainMenuBar.py:115
+msgid "&Revert Character"
+msgstr "&캐릭터 되돌리기"
+
+#: gui/mainMenuBar.py:113
+msgid "&Save Character"
+msgstr "&캐릭터 저장"
+
+#: gui/mainMenuBar.py:153
+msgid "&Target Profile Editor"
+msgstr "타겟 프로필 에디터"
+
+#: gui/mainMenuBar.py:87
+msgid "&To Clipboard"
+msgstr "&클립보드로"
+
+#: gui/mainFrame.py:688
+msgid "&Turn Overrides Off"
+msgstr "&오버라이드 끄기"
+
+#: gui/mainMenuBar.py:131 gui/mainFrame.py:688
+msgid "&Turn Overrides On"
+msgstr "&오버라이드 켜기"
+
+#: gui/mainMenuBar.py:83
+msgid "&Undo"
+msgstr "&실행 취소"
+
+#: gui/mainMenuBar.py:160
+msgid "&Wiki"
+msgstr "&위키"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:25
+#: gui/builtinPreferenceViews/pyfaLoggingPreferences.py:29
+msgid "(Cannot be changed while pyfa is running. Set via command line switches.)"
+msgstr "(pyfa가 실행중인 동안에는 수정할 수 없습니다. 커맨드 라인 교체를 통해 설정하시기 바랍니다.)"
+
+#: gui/builtinStatsViews/capacitorViewFull.py:81
+msgid "0s"
+msgstr "0초"
+
+#: gui/builtinContextMenus/fighterAbilities.py:33
+msgid "Abilities"
+msgstr "스킬"
+
+#: eos/saveddata/damagePattern.py:95 eos/saveddata/damagePattern.py:96
+#: eos/saveddata/damagePattern.py:97 eos/saveddata/damagePattern.py:98
+#: eos/saveddata/damagePattern.py:99 eos/saveddata/damagePattern.py:100
+#: eos/saveddata/damagePattern.py:101 eos/saveddata/damagePattern.py:102
+#: eos/saveddata/damagePattern.py:103 eos/saveddata/damagePattern.py:104
+#: eos/saveddata/targetProfile.py:99 eos/saveddata/targetProfile.py:100
+#: eos/saveddata/targetProfile.py:101 eos/saveddata/targetProfile.py:102
+#: eos/saveddata/targetProfile.py:103 eos/saveddata/targetProfile.py:104
+#: eos/saveddata/targetProfile.py:105 eos/saveddata/targetProfile.py:106
+#: eos/saveddata/targetProfile.py:107 eos/saveddata/targetProfile.py:108
+#: eos/saveddata/targetProfile.py:109 eos/saveddata/targetProfile.py:110
+#: eos/saveddata/targetProfile.py:111 eos/saveddata/targetProfile.py:112
+#: eos/saveddata/targetProfile.py:113 eos/saveddata/targetProfile.py:114
+#: eos/saveddata/targetProfile.py:115 eos/saveddata/targetProfile.py:116
+#: eos/saveddata/targetProfile.py:117 eos/saveddata/targetProfile.py:118
+#: eos/saveddata/targetProfile.py:119 eos/saveddata/targetProfile.py:120
+#: eos/saveddata/targetProfile.py:121 eos/saveddata/targetProfile.py:122
+#: eos/saveddata/targetProfile.py:123 eos/saveddata/targetProfile.py:124
+#: eos/saveddata/targetProfile.py:125 eos/saveddata/targetProfile.py:126
+#: eos/saveddata/targetProfile.py:127 eos/saveddata/targetProfile.py:128
+#: eos/saveddata/targetProfile.py:129 eos/saveddata/targetProfile.py:130
+#: eos/saveddata/targetProfile.py:131 eos/saveddata/targetProfile.py:132
+#: eos/saveddata/targetProfile.py:133 eos/saveddata/targetProfile.py:134
+#: eos/saveddata/targetProfile.py:135 eos/saveddata/targetProfile.py:136
+#: eos/saveddata/targetProfile.py:137 eos/saveddata/targetProfile.py:138
+#: eos/saveddata/targetProfile.py:139 eos/saveddata/targetProfile.py:140
+#: eos/saveddata/targetProfile.py:141 eos/saveddata/targetProfile.py:142
+#: eos/saveddata/targetProfile.py:143 eos/saveddata/targetProfile.py:144
+#: eos/saveddata/targetProfile.py:145 eos/saveddata/targetProfile.py:146
+#: eos/saveddata/targetProfile.py:147 eos/saveddata/targetProfile.py:148
+#: eos/saveddata/targetProfile.py:149 eos/saveddata/targetProfile.py:150
+#: eos/saveddata/targetProfile.py:151 eos/saveddata/targetProfile.py:152
+#: eos/saveddata/targetProfile.py:153 eos/saveddata/targetProfile.py:154
+#: eos/saveddata/targetProfile.py:155 eos/saveddata/targetProfile.py:156
+#: eos/saveddata/targetProfile.py:157 eos/saveddata/targetProfile.py:158
+#: eos/saveddata/targetProfile.py:159 eos/saveddata/targetProfile.py:160
+#: eos/saveddata/targetProfile.py:161 eos/saveddata/targetProfile.py:162
+#: eos/saveddata/targetProfile.py:163 eos/saveddata/targetProfile.py:164
+#: eos/saveddata/targetProfile.py:165 eos/saveddata/targetProfile.py:166
+#: eos/saveddata/targetProfile.py:167 eos/saveddata/targetProfile.py:168
+#: eos/saveddata/targetProfile.py:169 eos/saveddata/targetProfile.py:170
+#: eos/saveddata/targetProfile.py:171 eos/saveddata/targetProfile.py:172
+#: eos/saveddata/targetProfile.py:173 eos/saveddata/targetProfile.py:174
+#: eos/saveddata/targetProfile.py:175 eos/saveddata/targetProfile.py:176
+#: eos/saveddata/targetProfile.py:177 eos/saveddata/targetProfile.py:178
+#: eos/saveddata/targetProfile.py:179 eos/saveddata/targetProfile.py:180
+#: eos/saveddata/targetProfile.py:181 eos/saveddata/targetProfile.py:182
+#: eos/saveddata/targetProfile.py:183 eos/saveddata/targetProfile.py:184
+#: eos/saveddata/targetProfile.py:185 eos/saveddata/targetProfile.py:186
+#: eos/saveddata/targetProfile.py:187 eos/saveddata/targetProfile.py:188
+#: eos/saveddata/targetProfile.py:189 eos/saveddata/targetProfile.py:191
+#: eos/saveddata/targetProfile.py:192 eos/saveddata/targetProfile.py:193
+#: eos/saveddata/targetProfile.py:194 eos/saveddata/targetProfile.py:195
+#: eos/saveddata/targetProfile.py:196 eos/saveddata/targetProfile.py:197
+#: eos/saveddata/targetProfile.py:198 eos/saveddata/targetProfile.py:199
+#: eos/saveddata/targetProfile.py:200 eos/saveddata/targetProfile.py:201
+#: eos/saveddata/targetProfile.py:202 eos/saveddata/targetProfile.py:203
+#: eos/saveddata/targetProfile.py:204 eos/saveddata/targetProfile.py:205
+#: eos/saveddata/targetProfile.py:206 eos/saveddata/targetProfile.py:207
+#: eos/saveddata/targetProfile.py:208 eos/saveddata/targetProfile.py:209
+#: eos/saveddata/targetProfile.py:210 eos/saveddata/targetProfile.py:211
+#: eos/saveddata/targetProfile.py:212 eos/saveddata/targetProfile.py:213
+#: eos/saveddata/targetProfile.py:214 eos/saveddata/targetProfile.py:215
+#: eos/saveddata/targetProfile.py:216 eos/saveddata/targetProfile.py:217
+#: eos/saveddata/targetProfile.py:218 eos/saveddata/targetProfile.py:219
+#: eos/saveddata/targetProfile.py:220 eos/saveddata/targetProfile.py:221
+#: eos/saveddata/targetProfile.py:222 eos/saveddata/targetProfile.py:223
+#: eos/saveddata/targetProfile.py:224 eos/saveddata/targetProfile.py:225
+#: eos/saveddata/targetProfile.py:226 eos/saveddata/targetProfile.py:227
+#: eos/saveddata/targetProfile.py:228 eos/saveddata/targetProfile.py:229
+msgid "Abyssal"
+msgstr "아비살"
+
+#: gui/builtinContextMenus/envEffectAdd.py:123
+msgid "Abyssal Weather"
+msgstr "어비셜 환경"
+
+#: gui/builtinItemStatsViews/itemEffects.py:31
+msgid "Active"
+msgstr "활성화"
+
+#: gui/builtinViewColumns/abilities.py:37
+msgid "Active Abilities"
+msgstr "활성화된 능력"
+
+#: gui/builtinViewColumns/sideEffects.py:37
+msgid "Active Side Effects"
+msgstr "활성화된 부작용"
+
+#: gui/builtinStatsViews/rechargeViewFull.py:76
+msgid "Active shield boost"
+msgstr "액티브 실드 부스트"
+
+#: gui/esiFittings.py:384
+msgid "Add Character"
+msgstr "캐릭터 추가"
+
+#: gui/esiFittings.py:217
+msgid "Add Character Error"
+msgstr "캐릭터 에러 추가"
+
+#: gui/builtinShipBrowser/fitItem.py:233
+msgid "Add Command Booster"
+msgstr "커맨드 부스트 추가"
+
+#: gui/builtinContextMenus/fitAddCurrentlyOpen.py:29
+msgid "Add Currently Open Fit"
+msgstr "현재 열린 핏 추가"
+
+#: gui/builtinContextMenus/envEffectAdd.py:56
+msgid "Add Environmental Effect"
+msgstr "환경 효과 추가"
+
+#: gui/builtinContextMenus/fitAddBrowse.py:22
+msgid "Add Fit..."
+msgstr "핏 추가..."
+
+#: gui/fitBrowserLite.py:17
+msgid "Add Fits"
+msgstr "여러 핏 추가"
+
+#: gui/builtinContextMenus/targetProfile/adder.py:29
+msgid "Add Target Profile"
+msgstr "타겟 프로필 추가"
+
+#: gui/builtinContextMenus/cargoAddAmmo.py:28
+#, python-brace-format
+msgid "Add {0} to Cargo (x1000)"
+msgstr "{0} 를 카고에 추가 (x1000)"
+
+#: gui/builtinContextMenus/cargoAdd.py:33
+msgid "Add {} to Cargo"
+msgstr "{} 를 카고에 추가"
+
+#: gui/builtinContextMenus/droneAddStack.py:40
+msgid "Add {} to Drone Bay{}"
+msgstr "{} 를 드론 베이에 추가{}"
+
+#: gui/additionsPane.py:45
+msgid "Additions"
+msgstr "추가"
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:81
+msgid "Additions Panel Copy/Paste"
+msgstr "추가 패널 복사/붙여넣기"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:101
+msgid "Addr:"
+msgstr "주소:"
+
+#: gui/itemStats.py:196
+msgid "Affected by"
+msgstr "다음에서 영향 받음"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:226
+#, python-format
+msgid "Agility:\t%.3fx"
+msgstr "기동성:\t%.3fx"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:87
+msgid "Align time"
+msgstr "정렬 소요 시간"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:224
+#, python-format
+msgid "Align:\t%.3fs"
+msgstr "정렬:       %.3f 초"
+
+#: eos/saveddata/damagePattern.py:95 eos/saveddata/targetProfile.py:105
+#: eos/saveddata/targetProfile.py:112 eos/saveddata/targetProfile.py:119
+#: eos/saveddata/targetProfile.py:126 eos/saveddata/targetProfile.py:133
+#: eos/saveddata/targetProfile.py:140 eos/saveddata/targetProfile.py:147
+#: eos/saveddata/targetProfile.py:154 eos/saveddata/targetProfile.py:161
+#: eos/saveddata/targetProfile.py:168 eos/saveddata/targetProfile.py:175
+#: eos/saveddata/targetProfile.py:182 eos/saveddata/targetProfile.py:189
+msgid "All"
+msgstr "전체"
+
+#: gui/aboutData.py:32
+msgid "All EVE-Online related materials are property of CCP hf."
+msgstr "모든 EVE-Online 관련 자료는 CCP hf의 자산입니다."
+
+#: gui/mainFrame.py:838 gui/mainFrame.py:1013
+msgid "All Files"
+msgstr "모든 파일"
+
+#: gui/characterSelection.py:238
+msgid "All skill prerequisites have been met"
+msgstr "모든 스킬 필수조건이 충족되었습니다."
+
+#: gui/builtinPreferenceViews/pyfaUpdatePreferences.py:38
+msgid "Allow pre-release notifications"
+msgstr "시험판 알림 허용"
+
+#: graphs/gui/ctrlPanel.py:75
+msgid "Always show Y = 0"
+msgstr "항상 Y = 0 표시"
+
+#: eos/saveddata/targetProfile.py:53
+msgid "Amarr (Armor)"
+msgstr "아마르(장갑)"
+
+#: eos/saveddata/targetProfile.py:52
+msgid "Amarr (Shield)"
+msgstr "아마르(실드)"
+
+#: eos/saveddata/damagePattern.py:143 eos/saveddata/targetProfile.py:95
+msgid "Amarr EDENCOM Entities"
+msgstr "아마르 EDENCOM 객체"
+
+#: eos/saveddata/damagePattern.py:149 eos/saveddata/targetProfile.py:72
+msgid "Amarr Empire"
+msgstr "아마르 제국"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:115
+msgid "Ammo hold"
+msgstr "탄약고"
+
+#: eos/saveddata/damagePattern.py:96 eos/saveddata/targetProfile.py:193
+#: eos/saveddata/targetProfile.py:196 eos/saveddata/targetProfile.py:199
+#: eos/saveddata/targetProfile.py:202 eos/saveddata/targetProfile.py:205
+#: eos/saveddata/targetProfile.py:208 eos/saveddata/targetProfile.py:211
+#: eos/saveddata/targetProfile.py:214 eos/saveddata/targetProfile.py:217
+#: eos/saveddata/targetProfile.py:220 eos/saveddata/targetProfile.py:223
+#: eos/saveddata/targetProfile.py:226 eos/saveddata/targetProfile.py:229
+msgid "Angel"
+msgstr "엔젤"
+
+#: eos/saveddata/damagePattern.py:105 eos/saveddata/damagePattern.py:123
+#: eos/saveddata/targetProfile.py:60 eos/saveddata/targetProfile.py:66
+msgid "Angel Cartel"
+msgstr "엔젤 카르텔"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:133
+msgid "Animate gauges"
+msgstr "게이지 애니메이션"
+
+#: eos/saveddata/damagePattern.py:71
+msgid "Antimatter"
+msgstr "반물질탄"
+
+#: gui/builtinContextMenus/implantSetApply.py:25
+msgid "Apply Implant Set"
+msgstr "임플란트 셋 적용"
+
+#: gui/builtinContextMenus/moduleMutations.py:33
+msgid "Apply Mutaplasmid"
+msgstr "뮤타플라스미드 적용"
+
+#: gui/builtinContextMenus/graphDmgApplyProjected.py:23
+msgid "Apply Projected Items"
+msgstr "예상 항목 적용"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:144
+msgid "Apply Proxy Settings"
+msgstr "프록시 설정 적용"
+
+#: gui/propertyEditor.py:146
+msgid "Are you sure you want to delete all overrides?"
+msgstr "모든 오버라이드 설정을 지우겠습니까?"
+
+#: gui/mainFrame.py:645
+msgid "Are you sure you wish to ignore fitting restrictions for the current fit? This could lead to wildly inaccurate results and possible errors."
+msgstr "현재 피팅에서 피팅 제한을 무시하시겠습니까? 계산 결과가 부정확해 질 수도 있습니다."
+
+#: eos/saveddata/targetProfile.py:47
+msgid "Armor"
+msgstr "장갑"
+
+#: eos/saveddata/targetProfile.py:50
+msgid "Armor (+T2 DCU)"
+msgstr "장갑 (+T2 DCU)"
+
+#: gui/builtinStatsViews/rechargeViewFull.py:77
+msgid "Armor repair amount"
+msgstr "장갑 수리량"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:113
+msgid "Armor resistance"
+msgstr "장갑 저항력"
+
+#: gui/builtinStatsViews/outgoingViewMinimal.py:43
+#: gui/builtinStatsViews/outgoingViewFull.py:44
+msgid "Armor restored"
+msgstr "장갑 회복"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:206
+msgid "Armor: "
+msgstr "장갑: "
+
+#: eos/saveddata/damagePattern.py:120 eos/saveddata/targetProfile.py:90
+msgid "Ashimmu (Blood Raiders)"
+msgstr "아쉬무(블러드 레이더)"
+
+#: eos/saveddata/damagePattern.py:105 eos/saveddata/damagePattern.py:106
+#: eos/saveddata/damagePattern.py:107 eos/saveddata/damagePattern.py:108
+#: eos/saveddata/damagePattern.py:109 eos/saveddata/damagePattern.py:110
+#: eos/saveddata/targetProfile.py:60 eos/saveddata/targetProfile.py:61
+#: eos/saveddata/targetProfile.py:62 eos/saveddata/targetProfile.py:63
+#: eos/saveddata/targetProfile.py:64 eos/saveddata/targetProfile.py:65
+msgid "Asteroid"
+msgstr "소행성"
+
+#: graphs/data/fitDamageStats/graph.py:74
+msgid "Attacker"
+msgstr "공격자"
+
+#: gui/builtinItemStatsViews/itemProperties.py:56
+#: gui/builtinItemStatsViews/itemAttributes.py:44
+msgid "Attribute"
+msgstr "속성"
+
+#: gui/mainMenuBar.py:128
+msgid "Attribute &Overrides"
+msgstr "속성 재정의"
+
+#: gui/propertyEditor.py:28
+msgid "Attribute Editor"
+msgstr "속성 에디터"
+
+#: gui/itemStats.py:177
+msgid "Attributes"
+msgstr "속성"
+
+#: gui/builtinContextMenus/graphDmgDroneMode.py:43
+msgid "Auto"
+msgstr "자동"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:94
+msgid "Auto will use the same language pyfa uses if available, otherwise English"
+msgstr "자동으로 설정하면 가능할 경우 pyfa의 언어를 이용하고, 아닌 경우 영어를 사용합니다."
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:87
+msgid "Auto-detected proxy settings"
+msgstr "프록시 자동 설정"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:136
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:158
+msgid "Auto-detected: "
+msgstr "자동 감지:"
+
+#: graphs/gui/ctrlPanel.py:64
+msgid "Axis X:"
+msgstr "X축:"
+
+#: graphs/gui/ctrlPanel.py:56
+msgid "Axis Y:"
+msgstr "Y축:"
+
+#: gui/builtinShipBrowser/navigationPanel.py:50
+msgid "Back"
+msgstr "돌아가기"
+
+#: gui/mainFrame.py:873
+msgid "Backing up {} fits to: {}"
+msgstr "{} 피팅을 다음에 백업:{}"
+
+#: gui/mainMenuBar.py:73
+msgid "Backup all fittings to a XML file"
+msgstr "전체 피팅을 XML로 백업"
+
+#: gui/mainFrame.py:872 gui/mainFrame.py:903
+msgid "Backup fits"
+msgstr "피팅 백업"
+
+#: eos/saveddata/damagePattern.py:59
+msgid "Baryon"
+msgstr "바리온"
+
+#: gui/builtinItemStatsViews/itemAttributes.py:47
+msgid "Base Value"
+msgstr "기본값"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:166
+msgid "Battlecruiser"
+msgstr "배틀크루저"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:166
+msgid "Battleship"
+msgstr "배틀쉽"
+
+#: gui/mainFrame.py:951
+msgid "Be aware that already processed fits were not saved"
+msgstr "이미 처리된 핏들은 저장되지 않았음"
+
+#: gui/builtinContextMenus/envEffectAdd.py:209
+msgid "Bioluminescence"
+msgstr "생물학적 발광"
+
+#: eos/saveddata/damagePattern.py:106 eos/saveddata/damagePattern.py:124
+#: eos/saveddata/targetProfile.py:61 eos/saveddata/targetProfile.py:67
+msgid "Blood Raiders"
+msgstr "블러드 레이더"
+
+#: graphs/style.py:54
+msgid "Blue"
+msgstr "블루"
+
+#: eos/saveddata/damagePattern.py:90 eos/saveddata/damagePattern.py:91
+#: eos/saveddata/damagePattern.py:92 eos/saveddata/damagePattern.py:93
+msgid "Bombs"
+msgstr "밤"
+
+#: gui/builtinAdditionPanes/boosterView.py:215
+msgid "Booster"
+msgstr "부스터"
+
+#: gui/copySelectDialog.py:48 gui/copySelectDialog.py:56
+#: gui/builtinContextMenus/additionsExportAll.py:23
+#: gui/builtinContextMenus/additionsExportSelection.py:23
+#: gui/builtinContextMenus/additionsImport.py:24 gui/additionsPane.py:78
+msgid "Boosters"
+msgstr "부스터"
+
+#: graphs/style.py:82
+msgid "Bright"
+msgstr "밝기"
+
+#: gui/esiFittings.py:32
+msgid "Browse EVE Fittings"
+msgstr "이브 피팅 살펴보기"
+
+#: graphs/data/fitMobility/graph.py:39
+msgid "Bump distance"
+msgstr "범핑 거리"
+
+#: graphs/data/fitMobility/graph.py:38
+msgid "Bump speed"
+msgstr "범핑 속도"
+
+#: eos/saveddata/damagePattern.py:111 eos/saveddata/damagePattern.py:112
+#: eos/saveddata/damagePattern.py:113 eos/saveddata/damagePattern.py:114
+#: eos/saveddata/damagePattern.py:115 eos/saveddata/damagePattern.py:116
+#: eos/saveddata/damagePattern.py:117 eos/saveddata/damagePattern.py:118
+#: eos/saveddata/damagePattern.py:119 eos/saveddata/damagePattern.py:120
+#: eos/saveddata/damagePattern.py:121 eos/saveddata/damagePattern.py:122
+#: eos/saveddata/targetProfile.py:81 eos/saveddata/targetProfile.py:82
+#: eos/saveddata/targetProfile.py:83 eos/saveddata/targetProfile.py:84
+#: eos/saveddata/targetProfile.py:85 eos/saveddata/targetProfile.py:86
+#: eos/saveddata/targetProfile.py:87 eos/saveddata/targetProfile.py:88
+#: eos/saveddata/targetProfile.py:89 eos/saveddata/targetProfile.py:90
+#: eos/saveddata/targetProfile.py:91 eos/saveddata/targetProfile.py:92
+msgid "Burner"
+msgstr "버너"
+
+#: eos/saveddata/damagePattern.py:151 eos/saveddata/targetProfile.py:74
+msgid "CONCORD"
+msgstr "콩코드"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:153
+msgid "CPU"
+msgstr "CPU"
+
+#: gui/builtinItemStatsViews/itemAttributes.py:118
+msgid "CSV files"
+msgstr "CSV 파일"
+
+#: eos/saveddata/targetProfile.py:55
+msgid "Caldari (Armor)"
+msgstr "칼다리 (아머)"
+
+#: eos/saveddata/targetProfile.py:54
+msgid "Caldari (Shield)"
+msgstr "칼다리 (실드)"
+
+#: eos/saveddata/damagePattern.py:144 eos/saveddata/damagePattern.py:145
+#: eos/saveddata/targetProfile.py:96
+msgid "Caldari EDENCOM Entities"
+msgstr "칼다리 EDENCOM 객체"
+
+#: eos/saveddata/damagePattern.py:150 eos/saveddata/targetProfile.py:73
+msgid "Caldari State"
+msgstr "칼다리 연합"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:115
+msgid "Calibration"
+msgstr "보정"
+
+#: graphs/data/fitCapacitor/graph.py:35 graphs/data/fitCapacitor/graph.py:36
+#: graphs/data/fitCapacitor/graph.py:38 graphs/data/fitCapacitor/graph.py:43
+msgid "Cap amount"
+msgstr "캐패시터 용량"
+
+#: graphs/data/fitEwarStats/graph.py:36
+msgid "Cap neutralized per second"
+msgstr "초당 뉴트량"
+
+#: graphs/data/fitCapacitor/graph.py:39
+msgid "Cap regen"
+msgstr "캐패시터 회복량"
+
+#: graphs/data/fitCapacitor/graph.py:32
+#: gui/builtinStatsViews/capacitorViewFull.py:37
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:79
+msgid "Capacitor"
+msgstr "캐패시터"
+
+#: gui/builtinStatsViews/capacitorViewFull.py:139
+msgid "Capacitor delta:"
+msgstr "캐패시터 변동량:"
+
+#: gui/builtinStatsViews/outgoingViewMinimal.py:31
+#: gui/builtinStatsViews/outgoingViewFull.py:32
+msgid "Capacitor restored"
+msgstr "캐패시터 안정"
+
+#: gui/builtinStatsViews/capacitorViewFull.py:57
+msgid "Capacitor stability"
+msgstr "캐패시터 안정성"
+
+#: eos/saveddata/damagePattern.py:76
+msgid "Carbonized Lead"
+msgstr "탄화납"
+
+#: gui/copySelectDialog.py:49 gui/copySelectDialog.py:57
+#: gui/builtinContextMenus/priceOptions.py:47
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:90
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:81
+#: gui/additionsPane.py:72
+msgid "Cargo"
+msgstr "카고"
+
+#: gui/builtinContextMenus/additionsExportAll.py:20
+#: gui/builtinContextMenus/additionsExportSelection.py:20
+#: gui/builtinContextMenus/additionsImport.py:21
+msgid "Cargo Items"
+msgstr "카고 아이템"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:158
+#: gui/builtinStatsViews/priceViewFull.py:58
+msgid "Cargo bay"
+msgstr "화물 저장고"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:229
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:254
+msgid "Cargohold: "
+msgstr "화물칸:"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:167
+msgid "Carrier"
+msgstr "캐리어"
+
+#: gui/builtinContextMenus/envEffectAdd.py:209
+msgid "Caustic"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaLoggingPreferences.py:47
+msgid "Cert Path:"
+msgstr "인증 경로:"
+
+#: gui/builtinContextMenus/skillAffectors.py:73
+#, python-format
+msgid "Change %s Skills"
+msgstr "%s 스킬 변경"
+
+#: gui/builtinContextMenus/itemAmountChange.py:92
+msgid "Change Amount"
+msgstr "수량 변경"
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:46
+msgid "Change Skills"
+msgstr "스킬 변경"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:144
+msgid "Change charge in all modules of the same type"
+msgstr "전체 모듈에 같은 종류의 차지로 변경"
+
+#: gui/builtinContextMenus/itemAmountChange.py:34
+#, python-brace-format
+msgid "Change {0} Quantity"
+msgstr "수량 변경 {0}"
+
+#: gui/builtinContextMenus/itemProjectionRange.py:34
+msgid "Change {} Range"
+msgstr "사거리 변경 {}"
+
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:31
+msgid "Changes require restart of pyfa to take effect."
+msgstr "변경 사항을 적용하려면 pyfa를 재시작해야 합니다."
+
+#: gui/esiFittings.py:375 gui/builtinStatsViews/priceViewFull.py:57
+#: gui/characterEditor.py:90
+msgid "Character"
+msgstr "캐릭터"
+
+#: gui/characterEditor.py:137
+msgid "Character Editor"
+msgstr "캐릭터 에디터"
+
+#: gui/esiFittings.py:376
+msgid "Character ID"
+msgstr "캐릭터 ID"
+
+#: gui/characterEditor.py:78
+msgid "Character name already in use, please choose another."
+msgstr "이미 사용중인 사용자 이름입니다. 다른 이름을 사용해주세요."
+
+#: gui/characterEditor.py:771
+msgid "Character:"
+msgstr "캐릭터:"
+
+#: gui/characterSelection.py:47
+msgid "Character: "
+msgstr "캐릭터: "
+
+#: gui/builtinContextMenus/moduleAmmoChange.py:48
+msgid "Charge"
+msgstr "차지"
+
+#: gui/builtinViews/fittingView.py:664
+msgid "Citadel"
+msgstr "시타델"
+
+#: gui/builtinContextMenus/fitSystemSecurity.py:37
+msgid "Citadel System Security"
+msgstr "시타델 시스템 시큐리티"
+
+#: gui/propertyEditor.py:40
+msgid "Clear All"
+msgstr "전체 삭제"
+
+#: gui/propertyEditor.py:40
+msgid "Clear all overrides"
+msgstr "모든 사용자 정의 속성 지우기"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:97
+#: gui/builtinStatsViews/resistancesViewFull.py:169
+msgid "Click to toggle between effective HP and raw HP"
+msgstr "이곳을 클릭하여 EHP나 HP를 볼 수 있습니다."
+
+#: gui/builtinStatsViews/miningyieldViewFull.py:102
+msgid "Click to toggle to Firepower View"
+msgstr "클릭하여 공격 정보로 전환"
+
+#: gui/builtinStatsViews/firepowerViewFull.py:115
+msgid "Click to toggle to Mining Yield"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:76
+msgid "Client ID:"
+msgstr "클라이언트 ID:"
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:85
+msgid "Client Secret:"
+msgstr "클라이언트 비밀 키:"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:114
+msgid "Color fitting view by slot"
+msgstr "슬롯에 색상 적용"
+
+#: graphs/data/fitEwarStats/graph.py:38
+msgid "Combined ECM strength"
+msgstr "종합 ECM 강도"
+
+#: gui/additionsPane.py:84
+msgid "Command"
+msgstr "명령"
+
+#: gui/builtinAdditionPanes/commandView.py:201
+msgid "Command Fit"
+msgstr ""
+
+#: gui/builtinContextMenus/commandFitAdd.py:51
+msgid "Command Fits"
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:127
+msgid "Command center hold"
+msgstr "통제 센터 창고"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:110
+msgid "Compact skills needed tooltip"
+msgstr ""
+
+#: gui/itemStats.py:182
+msgid "Compare"
+msgstr "비교"
+
+#: eos/saveddata/damagePattern.py:97 eos/saveddata/targetProfile.py:191
+#: eos/saveddata/targetProfile.py:194 eos/saveddata/targetProfile.py:197
+#: eos/saveddata/targetProfile.py:200 eos/saveddata/targetProfile.py:203
+#: eos/saveddata/targetProfile.py:206 eos/saveddata/targetProfile.py:209
+#: eos/saveddata/targetProfile.py:212 eos/saveddata/targetProfile.py:215
+#: eos/saveddata/targetProfile.py:218 eos/saveddata/targetProfile.py:221
+#: eos/saveddata/targetProfile.py:224 eos/saveddata/targetProfile.py:227
+msgid "Concord"
+msgstr "콩코드"
+
+#: eos/saveddata/damagePattern.py:92
+msgid "Concussion Bomb"
+msgstr "충격폭탄"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:98
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:103
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:108
+#: gui/mainFrame.py:647 gui/mainFrame.py:653
+msgid "Confirm"
+msgstr "확인"
+
+#: gui/esiFittings.py:160 gui/propertyEditor.py:147
+msgid "Confirm Delete"
+msgstr "삭제 확인"
+
+#: gui/esiFittings.py:129 gui/esiFittings.py:172 gui/esiFittings.py:345
+msgid "Connection error, please check your internet connection"
+msgstr "연결 오류: 인터넷 연결을 확인해주세요."
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:14
+msgid "Context Menus"
+msgstr "컨텍스트 메뉴"
+
+#: gui/builtinContextMenus/envEffectAdd.py:117
+msgid "ContextMenu|ProjectedEffectManipulation|Black Hole"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:118
+msgid "ContextMenu|ProjectedEffectManipulation|Cataclysmic Variable"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:144
+msgid "ContextMenu|ProjectedEffectManipulation|Effects"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:106
+msgid "ContextMenu|ProjectedEffectManipulation|Electrical"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:107
+msgid "ContextMenu|ProjectedEffectManipulation|Exotic"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:115
+msgid "ContextMenu|ProjectedEffectManipulation|Firestorm"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:108
+msgid "ContextMenu|ProjectedEffectManipulation|Gamma"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:119
+msgid "ContextMenu|ProjectedEffectManipulation|Magnetar"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:113
+msgid "ContextMenu|ProjectedEffectManipulation|Matter"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:111
+msgid "ContextMenu|ProjectedEffectManipulation|Metaliminal"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:109
+msgid "ContextMenu|ProjectedEffectManipulation|Plasma"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:120
+msgid "ContextMenu|ProjectedEffectManipulation|Pulsar"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:114
+msgid "ContextMenu|ProjectedEffectManipulation|Ray"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:121
+msgid "ContextMenu|ProjectedEffectManipulation|Red Giant"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:125
+msgid "ContextMenu|ProjectedEffectManipulation|Sansha Incursion"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:112
+msgid "ContextMenu|ProjectedEffectManipulation|Storm"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:143
+msgid "ContextMenu|ProjectedEffectManipulation|System Effects"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:127
+msgid "ContextMenu|ProjectedEffectManipulation|Triglavian Invasion"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:122
+msgid "ContextMenu|ProjectedEffectManipulation|Wolf Rayet"
+msgstr ""
+
+#: gui/builtinItemStatsViews/itemDescription.py:43
+#: gui/builtinItemStatsViews/itemTraits.py:25
+#: gui/builtinShipBrowser/fitItem.py:107
+msgid "Copy"
+msgstr "복사"
+
+#: gui/builtinContextMenus/additionsExportAll.py:39
+msgid "Copy All {}"
+msgstr "모두 복사 {}"
+
+#: gui/characterSelection.py:105
+msgid "Copy Missing Skills"
+msgstr "빠진 스킬 복사"
+
+#: gui/builtinContextMenus/moduleMutatedExport.py:28
+msgid "Copy Module to Clipboard"
+msgstr "모듈을 클립보드로 복사"
+
+#: gui/builtinContextMenus/additionsExportSelection.py:39
+msgid "Copy Selected {}"
+msgstr "선택 복사 {}"
+
+#: gui/ssoLogin.py:20
+msgid "Copy and paste the block of text provided by pyfa.io"
+msgstr ""
+
+#: gui/setEditor.py:222 gui/patternEditor.py:290 gui/targetProfileEditor.py:366
+msgid "Could not import from clipboard"
+msgstr "클립보드에서 불러올 수 없습니다."
+
+#: gui/targetProfileEditor.py:359
+msgid "Could not import from clipboard:"
+msgstr "클립보드에서 불러올 수 없습니다. :"
+
+#: gui/setEditor.py:218 gui/patternEditor.py:283
+msgid "Could not import from clipboard: unknown errors"
+msgstr "클립보드에서 불러올 수 없습니다. : 알 수 없는 에러"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:165
+msgid "Cruiser"
+msgstr "크루저"
+
+#: eos/saveddata/damagePattern.py:111 eos/saveddata/targetProfile.py:81
+msgid "Cruor (Blood Raiders)"
+msgstr "크루오어(블러드 레이더)"
+
+#: gui/builtinStatsViews/firepowerViewFull.py:175
+msgid "Current"
+msgstr "현재"
+
+#: gui/builtinItemStatsViews/itemProperties.py:57
+#: gui/builtinItemStatsViews/itemAttributes.py:45
+msgid "Current Value"
+msgstr "현재값"
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:63
+msgid "Custom Application"
+msgstr "사용자 어플리케이션"
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:46
+msgid "Custom application"
+msgstr ""
+
+#: graphs/style.py:57
+msgid "Cyan"
+msgstr "청록"
+
+#: graphs/data/fitDamageStats/graph.py:83
+msgid "DPS"
+msgstr "DPS"
+
+#: gui/patternEditor.py:99
+msgid "Damage Pattern Editor"
+msgstr "데미지 패턴 에디터"
+
+#: gui/patternEditor.py:65
+msgid "Damage Profile"
+msgstr "데미지 프로필"
+
+#: gui/patternEditor.py:53
+msgid "Damage Profile name already in use, please choose another."
+msgstr "데미지 프로필 이름이 사용중입니다. 다른 이름을 선택하세요."
+
+#: graphs/data/fitDamageStats/graph.py:56
+msgid "Damage Stats"
+msgstr "데미지 스탯"
+
+#: graphs/data/fitDamageStats/graph.py:85
+msgid "Damage inflicted"
+msgstr "받은 데미지"
+
+#: graphs/data/fitEwarStats/graph.py:39
+msgid "Damps: lock range reduction"
+msgstr "센서 약화: 타겟팅 거리 감소"
+
+#: eos/saveddata/damagePattern.py:113 eos/saveddata/targetProfile.py:83
+msgid "Daredevil (Serpentis)"
+msgstr "데어데빌(서펜티스)"
+
+#: graphs/style.py:81
+msgid "Dark"
+msgstr "암흑"
+
+#: eos/saveddata/targetProfile.py:99 eos/saveddata/targetProfile.py:100
+#: eos/saveddata/targetProfile.py:101 eos/saveddata/targetProfile.py:102
+#: eos/saveddata/targetProfile.py:103 eos/saveddata/targetProfile.py:104
+#: eos/saveddata/targetProfile.py:105 eos/saveddata/targetProfile.py:191
+#: eos/saveddata/targetProfile.py:192 eos/saveddata/targetProfile.py:193
+msgid "Dark Matter All Tiers"
+msgstr "암흑물질 모든 티어"
+
+#: graphs/style.py:89
+msgid "Dash-dotted"
+msgstr ""
+
+#: graphs/style.py:87
+msgid "Dashed"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:15
+msgid "Database"
+msgstr "데이터베이스"
+
+#: eos/saveddata/damagePattern.py:123 eos/saveddata/damagePattern.py:124
+#: eos/saveddata/damagePattern.py:125 eos/saveddata/damagePattern.py:126
+#: eos/saveddata/damagePattern.py:127 eos/saveddata/damagePattern.py:128
+#: eos/saveddata/targetProfile.py:66 eos/saveddata/targetProfile.py:67
+#: eos/saveddata/targetProfile.py:68 eos/saveddata/targetProfile.py:69
+#: eos/saveddata/targetProfile.py:70 eos/saveddata/targetProfile.py:71
+msgid "Deadspace"
+msgstr "데드스페이스"
+
+#: gui/builtinPreferenceViews/pyfaLoggingPreferences.py:56
+msgid "Debug Logging Enabled"
+msgstr "디버그 로깅 활성화"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:58
+msgid "Default Market Prices:"
+msgstr "기본 시장 가격:"
+
+#: gui/propertyEditor.py:271
+#, python-format
+msgid "Default Value: %0.3f"
+msgstr "기본값: %0.3f"
+
+#: gui/builtinContextMenus/shipModeChange.py:18
+msgid "Defense"
+msgstr "방어"
+
+#: graphs/data/fitMobility/graph.py:44
+msgid "Defined in millions of kilograms"
+msgstr ""
+
+#: gui/builtinShipBrowser/fitItem.py:109
+msgid "Delete"
+msgstr "삭제"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:79
+msgid "Delete All Damage Pattern Profiles"
+msgstr "모든 데미지 패턴 프로필 삭제"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:87
+msgid "Delete All Prices"
+msgstr "모든 가격 삭제"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:83
+msgid "Delete All Target Profiles"
+msgstr "모든 타겟 프로필 삭제"
+
+#: gui/esiFittings.py:66
+msgid "Delete all from Eve"
+msgstr "Eve에서 모두 삭제"
+
+#: gui/esiFittings.py:65
+msgid "Delete from EVE"
+msgstr "EVE에서 삭제"
+
+#: gui/itemStats.py:189
+msgid "Dependents"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:79
+msgid "Depleted Uranium"
+msgstr "열화 우라늄"
+
+#: gui/itemStats.py:174
+msgid "Description"
+msgstr "설명"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:165
+msgid "Destroyer"
+msgstr "디스트로이어"
+
+#: gui/builtinContextMenus/envEffectAdd.py:128
+msgid "Destructible Beacons"
+msgstr "파괴 가능한 신호기"
+
+#: gui/mainMenuBar.py:167
+msgid "Dev Tools"
+msgstr "개발자 도구"
+
+#: gui/mainMenuBar.py:101 gui/mainMenuBar.py:202
+msgid "Disable Fitting Re&strictions"
+msgstr "피팅 제한 비활성화"
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:41
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:46
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:51
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:61
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:66
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:76
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:81
+msgid "Disabled"
+msgstr "비활성화됨"
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:28
+msgid "Disabling context menus can improve responsiveness.\n"
+"You can hold {} key + right-click to show all menu items regardless of these settings."
+msgstr "메뉴를 비활성화하면 반응성을 높일수 있습니다.\n"
+"{} 키를 누른 상태에서 우클릭을 하면 이 설정에 관계없이 모든 메뉴를 볼수 있습니다."
+
+#: graphs/data/fitMobility/graph.py:36 graphs/data/fitRemoteReps/graph.py:50
+#: graphs/data/fitRemoteReps/graph.py:58 graphs/data/fitWarpTime/graph.py:47
+#: graphs/data/fitWarpTime/graph.py:48 graphs/data/fitWarpTime/graph.py:51
+#: graphs/data/fitWarpTime/graph.py:52 graphs/data/fitDamageStats/graph.py:58
+#: graphs/data/fitDamageStats/graph.py:65 graphs/data/fitEwarStats/graph.py:34
+#: graphs/data/fitEwarStats/graph.py:44
+msgid "Distance"
+msgstr "거리"
+
+#: graphs/data/fitDamageStats/graph.py:66
+msgid "Distance between the attacker and the target, as seen in overview (surface-to-surface)"
+msgstr "공격자와 목표물의 거리가 오버뷰에서 표시됩니다. (표면 대 표면)"
+
+#: graphs/data/fitDamageStats/graph.py:67
+msgid "Distance between the attacker and the target, as seen in overview (surface-to-surface)\n"
+"When set, places the target that far away from the attacker\n"
+"When not set, attacker's weapons always hit the target"
+msgstr "공격자와 목표물의 거리가 오버뷰에서 표시됩니다. (표면 대 표면)\n"
+"활성화시, 목표물을 공격자로부터 멀리 떨어진곳에 배치합니다.\n"
+"비활성화시, 공격자의 무기는 무조건 타겟을 타격합니다."
+
+#: graphs/data/fitRemoteReps/graph.py:59 graphs/data/fitRemoteReps/graph.py:60
+msgid "Distance between the repairing ship and the target, as seen in overview (surface-to-surface)"
+msgstr "로지쉽과 목표물의 거리가 오버뷰에 표시됩니다. (표면 대 표면)"
+
+#: gui/esiFittings.py:159
+msgid "Do you really want to delete {} ({}) from EVE?"
+msgstr "정말로 EVE에서 {} ({}) 을(를) 지우시겠습니까?"
+
+#: gui/updateDialog.py:102
+msgid "Don't remind me again for this release"
+msgstr "이 버전에 한해서 더 이상 알리지 않기"
+
+#: gui/characterEditor.py:789
+msgid "Don't see your EVE character in the list?"
+msgstr "당신의 EVE Online 캐릭터가 목록에서 보이지 않습니까?"
+
+#: graphs/style.py:88
+msgid "Dotted"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaUpdatePreferences.py:71
+#: gui/updateDialog.py:113
+msgid "Download"
+msgstr "다운로드"
+
+#: graphs/gui/lists.py:313
+msgid "Drag a fit into this list to graph it"
+msgstr "그래프화 하려면 피팅을 이곳에 드래그하세요"
+
+#: graphs/gui/lists.py:370
+msgid "Drag a fit into this list to have your fits graphed against it"
+msgstr ""
+
+#: gui/builtinAdditionPanes/commandView.py:163
+msgid "Drag a fit to this area"
+msgstr "이곳에 피팅을 드래그하세요"
+
+#: gui/builtinAdditionPanes/projectedView.py:224
+msgid "Drag an item or fit, or use right-click menu for wormhole effects"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:112 eos/saveddata/targetProfile.py:82
+msgid "Dramiel (Angel)"
+msgstr "드라미엘(엔젤 카르텔)"
+
+#: eos/saveddata/damagePattern.py:130 eos/saveddata/damagePattern.py:144
+#: eos/saveddata/damagePattern.py:147
+msgid "Dread"
+msgstr "드레드"
+
+#: eos/saveddata/damagePattern.py:143 eos/saveddata/damagePattern.py:146
+msgid "Dread/Subcaps"
+msgstr "드레드노트/서브캐피탈"
+
+#: eos/saveddata/damagePattern.py:98 eos/saveddata/targetProfile.py:103
+#: eos/saveddata/targetProfile.py:110 eos/saveddata/targetProfile.py:117
+#: eos/saveddata/targetProfile.py:124 eos/saveddata/targetProfile.py:131
+#: eos/saveddata/targetProfile.py:138 eos/saveddata/targetProfile.py:145
+#: eos/saveddata/targetProfile.py:152 eos/saveddata/targetProfile.py:159
+#: eos/saveddata/targetProfile.py:166 eos/saveddata/targetProfile.py:173
+#: eos/saveddata/targetProfile.py:180 eos/saveddata/targetProfile.py:187
+msgid "Drifter"
+msgstr "드리프터"
+
+#: eos/saveddata/damagePattern.py:159 eos/saveddata/targetProfile.py:230
+msgid "Drifter Entities"
+msgstr "드리프터 객체"
+
+#: gui/builtinStatsViews/firepowerViewFull.py:67
+msgid "Drone"
+msgstr "드론"
+
+#: gui/builtinContextMenus/graphDmgDroneMode.py:26
+msgid "Drone Mode"
+msgstr "드론 모드"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:157
+msgid "Drone bandwidth"
+msgstr "드론 대역폭"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:155
+msgid "Drone bay"
+msgstr "드론 격납고"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:66
+msgid "Drone range"
+msgstr "드론 통제 거리"
+
+#: eos/saveddata/damagePattern.py:99 eos/saveddata/targetProfile.py:99
+#: eos/saveddata/targetProfile.py:106 eos/saveddata/targetProfile.py:113
+#: eos/saveddata/targetProfile.py:120 eos/saveddata/targetProfile.py:127
+#: eos/saveddata/targetProfile.py:134 eos/saveddata/targetProfile.py:141
+#: eos/saveddata/targetProfile.py:148 eos/saveddata/targetProfile.py:155
+#: eos/saveddata/targetProfile.py:162 eos/saveddata/targetProfile.py:169
+#: eos/saveddata/targetProfile.py:176 eos/saveddata/targetProfile.py:183
+#: gui/builtinContextMenus/priceOptions.py:40
+#: gui/builtinContextMenus/additionsExportAll.py:18
+#: gui/builtinContextMenus/additionsExportSelection.py:18
+#: gui/builtinContextMenus/additionsImport.py:19
+#: gui/builtinStatsViews/priceViewFull.py:58
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:77
+#: gui/additionsPane.py:66
+msgid "Drones"
+msgstr "드론"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:113
+msgid "Drones active"
+msgstr "활성화된 드론"
+
+#: gui/builtinPreferenceViews/pyfaLoggingPreferences.py:62
+msgid "Dump All Logs"
+msgstr "모든 로그 지우기"
+
+#: gui/mainMenuBar.py:105
+msgid "E&xport to ESI"
+msgstr "ESI로 내보내기"
+
+#: graphs/data/fitEwarStats/graph.py:38
+msgid "ECM: combined strength"
+msgstr "ECM: 총합 강도"
+
+#: gui/mainFrame.py:837
+msgid "EFT text fitting files"
+msgstr "EFT 텍스트 피팅 파일"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:96
+#: gui/builtinStatsViews/resistancesViewFull.py:187
+msgid "EHP"
+msgstr "실질 내구도"
+
+#: eos/saveddata/damagePattern.py:39
+#: gui/builtinContextMenus/moduleAmmoChange.py:24
+msgid "EM"
+msgstr "EM"
+
+#: gui/targetProfileEditor.py:119
+msgid "EM resistance"
+msgstr "EM 저항력"
+
+#: eos/saveddata/damagePattern.py:81
+msgid "EMP"
+msgstr "EMP"
+
+#: gui/esiFittings.py:347 gui/esiFittings.py:351 gui/esiFittings.py:359
+msgid "ERROR"
+msgstr "오류"
+
+#: gui/mainFrame.py:1012
+msgid "EVE API XML character files"
+msgstr "EVE API XML 캐릭터 파일"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:76
+msgid "EVE Data:"
+msgstr "이브 데이터:"
+
+#: gui/builtinPreferenceViews/pyfaHTMLExportPreferences.py:49
+msgid "EVE IGB HTML fitting file"
+msgstr "EVE IGB HTML 피팅 파일"
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:16
+#: gui/characterEditor.py:162
+msgid "EVE SSO"
+msgstr "EVE SSO"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:37
+msgid "EVE Servers (API && CREST import)"
+msgstr ""
+
+#: gui/mainFrame.py:859
+msgid "EVE XML fitting file"
+msgstr "이브 XML 피팅 파일"
+
+#: gui/mainFrame.py:466 gui/mainFrame.py:836
+msgid "EVE XML fitting files"
+msgstr "이브 XML 피팅 파일들"
+
+#: gui/mainFrame.py:808
+msgid "EVEMon skills training XML file"
+msgstr "EVEMon 스킬 훈련 XML 파일"
+
+#: gui/mainFrame.py:807
+msgid "EVEMon skills training file"
+msgstr "EVEMon 스킬 훈련 파일"
+
+#: graphs/data/fitDamageStats/graph.py:83
+msgid "Effective DPS"
+msgstr "유효 DPS"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:61
+#: gui/builtinStatsViews/resistancesViewFull.py:219
+msgid "Effective HP: "
+msgstr "유효 HP: "
+
+#: gui/builtinStatsViews/capacitorViewFull.py:151
+msgid "Effective capacity"
+msgstr "유효 캐퍼시티"
+
+#: graphs/data/fitDamageStats/graph.py:85
+msgid "Effective damage inflicted"
+msgstr "받은 유효 데미지"
+
+#: graphs/data/fitDamageStats/graph.py:84
+msgid "Effective volley"
+msgstr "유효 알파 샷"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:220
+#, python-format
+msgid "Effective: %d HP"
+msgstr "실질 내구도: %d"
+
+#: gui/itemStats.py:192
+msgid "Effects"
+msgstr "효과"
+
+#: eos/saveddata/targetProfile.py:106 eos/saveddata/targetProfile.py:107
+#: eos/saveddata/targetProfile.py:108 eos/saveddata/targetProfile.py:109
+#: eos/saveddata/targetProfile.py:110 eos/saveddata/targetProfile.py:111
+#: eos/saveddata/targetProfile.py:112 eos/saveddata/targetProfile.py:194
+#: eos/saveddata/targetProfile.py:195 eos/saveddata/targetProfile.py:196
+msgid "Electrical T0/T1/T2"
+msgstr "전기폭풍 T0/T1/T2"
+
+#: eos/saveddata/targetProfile.py:113 eos/saveddata/targetProfile.py:114
+#: eos/saveddata/targetProfile.py:115 eos/saveddata/targetProfile.py:116
+#: eos/saveddata/targetProfile.py:117 eos/saveddata/targetProfile.py:118
+#: eos/saveddata/targetProfile.py:119 eos/saveddata/targetProfile.py:197
+#: eos/saveddata/targetProfile.py:198 eos/saveddata/targetProfile.py:199
+msgid "Electrical T3 (Some T5 Rooms)"
+msgstr "전기폭풍 T3 (일부 T5 포켓 포함)"
+
+#: eos/saveddata/targetProfile.py:120 eos/saveddata/targetProfile.py:121
+#: eos/saveddata/targetProfile.py:122 eos/saveddata/targetProfile.py:123
+#: eos/saveddata/targetProfile.py:124 eos/saveddata/targetProfile.py:125
+#: eos/saveddata/targetProfile.py:126 eos/saveddata/targetProfile.py:200
+#: eos/saveddata/targetProfile.py:201 eos/saveddata/targetProfile.py:202
+msgid "Electrical T4/T5/T6"
+msgstr "전기폭풍 T4/T5/T6"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:85
+msgid "Electromagnetic resistance"
+msgstr "EM 저항력"
+
+#: eos/saveddata/damagePattern.py:90
+msgid "Electron Bomb"
+msgstr "전기폭탄"
+
+#: graphs/data/fitEwarStats/graph.py:33
+msgid "Electronic Warfare Stats"
+msgstr "전자전 스탯"
+
+#: gui/builtinContextMenus/moduleAmmoChange.py:59
+msgid "Empty"
+msgstr "비어있음"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:105
+msgid "Empty Market View"
+msgstr ""
+
+#: gui/multiSwitch.py:41
+msgid "Empty Tab"
+msgstr "빈 탭"
+
+#: gui/mainMenuBar.py:200
+msgid "Enable Fitting Re&strictions"
+msgstr "피팅 제한 활성화"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:33
+msgid "Enable Network"
+msgstr "네트워크 사용 가능"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:106
+msgid "Enable all available meta buttons"
+msgstr "모든 이용 가능한 버튼 활성화"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:93
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:100
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:114
+msgid "Enable all meta buttons"
+msgstr "모든 메타 버튼 활성화"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:92
+msgid "Enable all meta buttons for a duration of search / recents"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:113
+msgid "Enable item's meta button"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:113
+msgid "Enable item's meta button, disable others"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:106
+msgid "Enable leftmost available meta button"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaHTMLExportPreferences.py:61
+msgid "Enable minimal format"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:41
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:46
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:51
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:61
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:66
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:76
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:81
+msgid "Enabled"
+msgstr "활성화됨"
+
+#: gui/builtinPreferenceViews/pyfaEnginePreferences.py:50
+msgid "Enforce strict skill level requirements"
+msgstr ""
+
+#: gui/characterEditor.py:281
+msgid "Enter a name for your new Character:"
+msgstr "새 캐릭터의 이름 입력:"
+
+#: gui/builtinContextMenus/implantSetSave.py:51
+msgid "Enter a name for your new Implant Set:"
+msgstr "새 임플란트 세트의 이름 입력:"
+
+#: eos/saveddata/damagePattern.py:116 eos/saveddata/targetProfile.py:86
+msgid "Enyo"
+msgstr "엔요"
+
+#: gui/characterSelection.py:174 gui/setEditor.py:55 gui/mainFrame.py:896
+#: gui/characterEditor.py:83 gui/characterEditor.py:463
+#: gui/characterEditor.py:898 gui/patternEditor.py:58
+#: gui/targetProfileEditor.py:78
+msgid "Error"
+msgstr "오류"
+
+#: gui/characterSelection.py:173 gui/characterEditor.py:897
+msgid "Error fetching skill information"
+msgstr "스킬 정보를 불러오는 중 오류 발생"
+
+#: gui/errorDialog.py:68
+msgid "Error!"
+msgstr "오류!"
+
+#: eos/saveddata/damagePattern.py:57 eos/saveddata/damagePattern.py:58
+#: eos/saveddata/damagePattern.py:59 eos/saveddata/damagePattern.py:60
+#: eos/saveddata/damagePattern.py:61
+msgid "Exotic Plasma"
+msgstr "엑조틱 플라즈마"
+
+#: eos/saveddata/targetProfile.py:148 eos/saveddata/targetProfile.py:149
+#: eos/saveddata/targetProfile.py:150 eos/saveddata/targetProfile.py:151
+#: eos/saveddata/targetProfile.py:152 eos/saveddata/targetProfile.py:153
+#: eos/saveddata/targetProfile.py:154 eos/saveddata/targetProfile.py:212
+#: eos/saveddata/targetProfile.py:213 eos/saveddata/targetProfile.py:214
+msgid "Exotic T0/T1/T2"
+msgstr "엑조틱 T0/T1/T2"
+
+#: eos/saveddata/targetProfile.py:155 eos/saveddata/targetProfile.py:156
+#: eos/saveddata/targetProfile.py:157 eos/saveddata/targetProfile.py:158
+#: eos/saveddata/targetProfile.py:159 eos/saveddata/targetProfile.py:160
+#: eos/saveddata/targetProfile.py:161 eos/saveddata/targetProfile.py:215
+#: eos/saveddata/targetProfile.py:216 eos/saveddata/targetProfile.py:217
+msgid "Exotic T3 (Some T5 Rooms)"
+msgstr "엑조틱 T3 (일부 T5 포켓 포함)"
+
+#: eos/saveddata/targetProfile.py:162 eos/saveddata/targetProfile.py:163
+#: eos/saveddata/targetProfile.py:164 eos/saveddata/targetProfile.py:165
+#: eos/saveddata/targetProfile.py:166 eos/saveddata/targetProfile.py:167
+#: eos/saveddata/targetProfile.py:168 eos/saveddata/targetProfile.py:218
+#: eos/saveddata/targetProfile.py:219 eos/saveddata/targetProfile.py:220
+msgid "Exotic T4/T5/T6"
+msgstr "엑조틱 T4/T5/T6"
+
+#: gui/builtinItemStatsViews/itemAffectedBy.py:67
+msgid "Expand All"
+msgstr "모두 펼치기"
+
+#: eos/saveddata/damagePattern.py:42
+#: gui/builtinContextMenus/moduleAmmoChange.py:26
+msgid "Explosive"
+msgstr "폭발"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:88
+#: gui/targetProfileEditor.py:122
+msgid "Explosive resistance"
+msgstr "폭발 저항력"
+
+#: gui/propertyEditor.py:39
+msgid "Export"
+msgstr "내보내기"
+
+#: gui/mainMenuBar.py:74
+msgid "Export All Fittings to &HTML"
+msgstr "모든 피팅을 HTML로 내보내기"
+
+#: gui/mainFrame.py:946
+msgid "Export Error"
+msgstr "내보내기 오류"
+
+#: gui/esiFittings.py:258
+msgid "Export Fit"
+msgstr "피팅 내보내기"
+
+#: gui/builtinPreferenceViews/pyfaHTMLExportPreferences.py:23
+msgid "Export Fittings in a minimal HTML Version, just containing the fittings links without any visual styling"
+msgstr "장식 없이 최소한의 HTML로 피팅 내보내기"
+
+#: gui/builtinItemStatsViews/itemAttributes.py:57
+msgid "Export Item Stats"
+msgstr "아이템 스탯 내보내기"
+
+#: gui/esiFittings.py:263
+msgid "Export Loaded Charges"
+msgstr "장전된 차지 내보내기"
+
+#: gui/mainFrame.py:805
+msgid "Export Skills Needed As..."
+msgstr "필요 스킬 내보내기.."
+
+#: gui/mainMenuBar.py:87
+msgid "Export a fit to the clipboard"
+msgstr "클립보드로 피팅 내보내기"
+
+#: gui/copySelectDialog.py:48 gui/copySelectDialog.py:56
+msgid "Export boosters"
+msgstr "부스터 내보내기"
+
+#: gui/copySelectDialog.py:49
+msgid "Export cargo contents"
+msgstr "창고 물품 내보내기"
+
+#: gui/copySelectDialog.py:57
+msgid "Export cargo hold contents"
+msgstr "창고 내용물 내보내기"
+
+#: gui/copySelectDialog.py:46 gui/copySelectDialog.py:53
+msgid "Export charges loaded into modules"
+msgstr "모듈로 장전된 차지 내보내기"
+
+#: gui/esiFittings.py:245
+msgid "Export fit to EVE"
+msgstr "EVE 클라이언트로 피팅 내보내기"
+
+#: gui/mainMenuBar.py:74
+msgid "Export fits to HTML file (set in Preferences)"
+msgstr "HTML 파일로 피팅 내보내기 (환경 설정에서 설정)"
+
+#: gui/mainMenuBar.py:92
+msgid "Export fitting to another format"
+msgstr "다른 포맷으로 피팅 내보내기"
+
+#: gui/setEditor.py:149
+msgid "Export implant sets to clipboard"
+msgstr "클립보드로 임플란트 내보내기"
+
+#: gui/copySelectDialog.py:47 gui/copySelectDialog.py:55
+msgid "Export implants"
+msgstr "임플란트 내보내기"
+
+#: gui/copySelectDialog.py:54
+msgid "Export mutated modules' stats"
+msgstr "변이된 모듈 스탯 내보내기"
+
+#: gui/patternEditor.py:172
+msgid "Export patterns to clipboard"
+msgstr "클립보드로 패턴 내보내기"
+
+#: gui/targetProfileEditor.py:222
+msgid "Export profiles to clipboard"
+msgstr "클립보드로 프로필 내보내기"
+
+#: gui/characterEditor.py:373
+msgid "Export skills from clipboard"
+msgstr "클립보드로 스킬 내보내기"
+
+#: gui/mainMenuBar.py:119
+msgid "Export skills needed for this fitting"
+msgstr "클립보드로 이 피팅에 필요한 스킬 내보내기"
+
+#: gui/mainFrame.py:827
+msgid "Exporting skills needed..."
+msgstr "필요한 스킬 내보내기.."
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:152
+msgid "Extra info in Additions panel tab names"
+msgstr ""
+
+#: gui/builtinStatsViews/capacitorViewFull.py:90
+msgid "Extra stats"
+msgstr "추가 스탯"
+
+#: gui/builtinContextMenus/factorReload.py:26
+msgid "Factor in Reload Time"
+msgstr "재장전 시간 적용"
+
+#: gui/builtinPreferenceViews/pyfaEnginePreferences.py:44
+msgid "Factor in reload time when calculating capacitor usage, damage, and tank."
+msgstr "캐패시터 소모, 데미지, 탱킹에 재장전 시간 적용"
+
+#: gui/esiFittings.py:328
+msgid "Failed to generate export data"
+msgstr "내보내기 데이터 생성 실패"
+
+#: gui/aboutData.py:34
+msgid "Fat Cow Icons by fatcow.com - Creative Commons Attribution 3.0 License"
+msgstr "Fat Cow Icons by fatcow.com - Creative Commons Attribution 3.0 License"
+
+#: gui/esiFittings.py:44
+msgid "Fetch Fits"
+msgstr "피팅 가져오기"
+
+#: gui/esiFittings.py:114
+msgid "Fetching fits, please wait..."
+msgstr "피팅을 가져오는 중입니다, 잠시 기다려 주십시오..."
+
+#: gui/mainMenuBar.py:81
+msgid "Fi&t"
+msgstr "핏"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:156
+msgid "Fighter bay"
+msgstr "파이터 격납고"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:114
+msgid "Fighter squadrons active"
+msgstr "파이터 함대 적용"
+
+#: gui/builtinContextMenus/additionsExportAll.py:19
+#: gui/builtinContextMenus/additionsExportSelection.py:19
+#: gui/builtinContextMenus/additionsImport.py:20 gui/additionsPane.py:69
+msgid "Fighters"
+msgstr "파이터"
+
+#: gui/builtinContextMenus/envEffectAdd.py:209
+msgid "Filament"
+msgstr "필라멘트"
+
+#: gui/builtinContextMenus/itemFill.py:32
+msgid "Fill With Module"
+msgstr "이 모듈로 채우기"
+
+#: gui/builtinContextMenus/moduleFill.py:24
+#, python-brace-format
+msgid "Fill With {0}"
+msgstr "{0} 로 채우기"
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:66
+msgid "Fill with module"
+msgstr "이 모듈로 채우기"
+
+#: gui/builtinStatsViews/firepowerViewFull.py:43
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:71
+msgid "Firepower"
+msgstr "화력"
+
+#: eos/saveddata/targetProfile.py:127 eos/saveddata/targetProfile.py:128
+#: eos/saveddata/targetProfile.py:129 eos/saveddata/targetProfile.py:130
+#: eos/saveddata/targetProfile.py:131 eos/saveddata/targetProfile.py:132
+#: eos/saveddata/targetProfile.py:133 eos/saveddata/targetProfile.py:203
+#: eos/saveddata/targetProfile.py:204 eos/saveddata/targetProfile.py:205
+msgid "Firestorm T0/T1/T2"
+msgstr "화염폭풍 T0/T1/T2"
+
+#: eos/saveddata/targetProfile.py:134 eos/saveddata/targetProfile.py:135
+#: eos/saveddata/targetProfile.py:136 eos/saveddata/targetProfile.py:137
+#: eos/saveddata/targetProfile.py:138 eos/saveddata/targetProfile.py:139
+#: eos/saveddata/targetProfile.py:140 eos/saveddata/targetProfile.py:206
+#: eos/saveddata/targetProfile.py:207 eos/saveddata/targetProfile.py:208
+msgid "Firestorm T3 (Some T5 Rooms)"
+msgstr "화염폭풍 T3 (일부 T5 포켓 포함)"
+
+#: eos/saveddata/targetProfile.py:141 eos/saveddata/targetProfile.py:142
+#: eos/saveddata/targetProfile.py:143 eos/saveddata/targetProfile.py:144
+#: eos/saveddata/targetProfile.py:145 eos/saveddata/targetProfile.py:146
+#: eos/saveddata/targetProfile.py:147 eos/saveddata/targetProfile.py:209
+#: eos/saveddata/targetProfile.py:210 eos/saveddata/targetProfile.py:211
+msgid "Firestorm T4/T5/T6"
+msgstr "화염폭풍 T4/T5/T6"
+
+#: graphs/gui/lists.py:306
+msgid "Fit"
+msgstr "피팅"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:47
+msgid "Fitting Database:"
+msgstr "피팅 데이터베이스:"
+
+#: gui/builtinPreferenceViews/pyfaEnginePreferences.py:27
+msgid "Fitting Engine"
+msgstr "피팅 엔진"
+
+#: gui/builtinStatsViews/priceViewMinimal.py:57
+#: gui/builtinStatsViews/priceViewFull.py:57 gui/mainFrame.py:184
+msgid "Fittings"
+msgstr "피팅"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:113
+msgid "Fleet hangar"
+msgstr "함대 격납고"
+
+#: gui/copySelectDialog.py:59
+msgid "Formatting Tags"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:43 eos/saveddata/damagePattern.py:44
+#: eos/saveddata/damagePattern.py:45 eos/saveddata/damagePattern.py:46
+#: eos/saveddata/damagePattern.py:47 eos/saveddata/damagePattern.py:48
+#: eos/saveddata/damagePattern.py:49 eos/saveddata/damagePattern.py:50
+#: eos/saveddata/damagePattern.py:51 eos/saveddata/damagePattern.py:52
+#: eos/saveddata/damagePattern.py:53 eos/saveddata/damagePattern.py:54
+msgid "Frequency Crystals"
+msgstr "프리퀀시 크리스탈"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:164
+msgid "Frigate"
+msgstr "프리깃"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:116
+msgid "Fuel bay"
+msgstr "연료 창고"
+
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:42
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:50
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:58
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:71
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:79
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:87
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:99
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:104
+msgid "Full"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:83
+msgid "Fusion"
+msgstr ""
+
+#: graphs/data/fitEwarStats/graph.py:41
+msgid "GDs: missile flight range reduction"
+msgstr "유도 방해: 미사일 체공시간 감소"
+
+#: eos/saveddata/targetProfile.py:57
+msgid "Gallente (Armor)"
+msgstr "갈란테 (장갑)"
+
+#: eos/saveddata/targetProfile.py:56
+msgid "Gallente (Shield)"
+msgstr "갈란테 (실드)"
+
+#: eos/saveddata/damagePattern.py:146 eos/saveddata/targetProfile.py:97
+msgid "Gallente EDENCOM Entities"
+msgstr "갈란테 EDENCOM 객체"
+
+#: eos/saveddata/damagePattern.py:152 eos/saveddata/targetProfile.py:75
+msgid "Gallente Federation"
+msgstr "갈란테 연합"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:57
+msgid "Game Database:"
+msgstr "게임 데이터베이스:"
+
+#: eos/saveddata/damagePattern.py:51
+msgid "Gamma"
+msgstr "감마"
+
+#: eos/saveddata/targetProfile.py:169 eos/saveddata/targetProfile.py:170
+#: eos/saveddata/targetProfile.py:171 eos/saveddata/targetProfile.py:172
+#: eos/saveddata/targetProfile.py:173 eos/saveddata/targetProfile.py:174
+#: eos/saveddata/targetProfile.py:175 eos/saveddata/targetProfile.py:221
+#: eos/saveddata/targetProfile.py:222 eos/saveddata/targetProfile.py:223
+msgid "Gamma T0/T1/T2"
+msgstr "감마 T0/T1/T2"
+
+#: eos/saveddata/targetProfile.py:176 eos/saveddata/targetProfile.py:177
+#: eos/saveddata/targetProfile.py:178 eos/saveddata/targetProfile.py:179
+#: eos/saveddata/targetProfile.py:180 eos/saveddata/targetProfile.py:181
+#: eos/saveddata/targetProfile.py:182 eos/saveddata/targetProfile.py:224
+#: eos/saveddata/targetProfile.py:225 eos/saveddata/targetProfile.py:226
+msgid "Gamma T3 (Some T5 Rooms)"
+msgstr "감마 T3 (일부 T5 포켓 포함)"
+
+#: eos/saveddata/targetProfile.py:183 eos/saveddata/targetProfile.py:184
+#: eos/saveddata/targetProfile.py:185 eos/saveddata/targetProfile.py:186
+#: eos/saveddata/targetProfile.py:187 eos/saveddata/targetProfile.py:188
+#: eos/saveddata/targetProfile.py:189 eos/saveddata/targetProfile.py:227
+#: eos/saveddata/targetProfile.py:228 eos/saveddata/targetProfile.py:229
+msgid "Gamma T4/T5/T6"
+msgstr "감마 T4/T5/T6"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:125
+msgid "Gas hold"
+msgstr "가스 창고"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:20
+msgid "General"
+msgstr "일반"
+
+#: gui/mainFrame.py:904
+msgid "Generating HTML file at: {}"
+msgstr "이 경로에 HTML 파일 생성: {}"
+
+#: eos/saveddata/damagePattern.py:39 eos/saveddata/damagePattern.py:40
+#: eos/saveddata/damagePattern.py:41 eos/saveddata/damagePattern.py:42
+msgid "Generic"
+msgstr "일반적"
+
+#: gui/characterEditor.py:778
+msgid "Get Skills"
+msgstr "스킬 불러오기"
+
+#: gui/builtinPreferenceViews/pyfaEnginePreferences.py:68
+msgid "Global Default Spoolup Percentage:"
+msgstr ""
+
+#: gui/mainMenuBar.py:161
+msgid "Go to EVE Online Forum thread"
+msgstr ""
+
+#: gui/mainMenuBar.py:160
+msgid "Go to wiki on GitHub"
+msgstr ""
+
+#: gui/characterSelection.py:102
+msgid "Grant Missing Skills"
+msgstr ""
+
+#: graphs/gui/frame.py:51
+msgid "Graphs"
+msgstr "그래프"
+
+#: eos/saveddata/fit.py:402
+msgid "Gravimetric"
+msgstr "중력장"
+
+#: graphs/style.py:53
+msgid "Green"
+msgstr "녹색"
+
+#: eos/saveddata/damagePattern.py:107 eos/saveddata/damagePattern.py:125
+#: eos/saveddata/targetProfile.py:62 eos/saveddata/targetProfile.py:68
+msgid "Guristas"
+msgstr "구리스타스"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:172
+#: gui/builtinStatsViews/resistancesViewFull.py:187
+msgid "HP"
+msgstr "HP"
+
+#: gui/builtinPreferenceViews/pyfaHTMLExportPreferences.py:19
+msgid "HTML Export"
+msgstr "HTML로 내보내기"
+
+#: gui/builtinPreferenceViews/pyfaHTMLExportPreferences.py:20
+msgid "HTML Export (File > Export HTML) allows you to export your entire fitting database into an HTML file at the specified location. This file can be used to easily open your fits in a web-based fitting program"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:117 eos/saveddata/targetProfile.py:87
+msgid "Hawk"
+msgstr "호크"
+
+#: gui/builtinAdditionPanes/fighterView.py:62
+msgid "Heavy"
+msgstr "헤비"
+
+#: gui/builtinShipBrowser/navigationPanel.py:136
+msgid "Hide Recent Fits"
+msgstr "최근 피팅 숨기기"
+
+#: gui/builtinShipBrowser/navigationPanel.py:53
+#: gui/builtinShipBrowser/navigationPanel.py:147
+msgid "Hide empty ship groups"
+msgstr "비어있는 함선 그룹 숨기기"
+
+#: gui/builtinViewColumns/baseName.py:59
+msgid "High"
+msgstr "높은"
+
+#: gui/builtinContextMenus/fitSystemSecurity.py:19
+msgid "High Security"
+msgstr "하이섹"
+
+#: eos/saveddata/targetProfile.py:48
+msgid "Hull"
+msgstr "선체"
+
+#: eos/saveddata/targetProfile.py:51
+msgid "Hull (+T2 DCU)"
+msgstr ""
+
+#: gui/builtinStatsViews/rechargeViewFull.py:78
+msgid "Hull repair amount"
+msgstr "선체 수리량"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:114
+msgid "Hull resistance"
+msgstr "선체 저항"
+
+#: gui/builtinStatsViews/outgoingViewMinimal.py:49
+#: gui/builtinStatsViews/outgoingViewFull.py:50
+msgid "Hull restored"
+msgstr "선체 회복량"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:206
+msgid "Hull: "
+msgstr "선체: "
+
+#: eos/saveddata/damagePattern.py:62 eos/saveddata/damagePattern.py:63
+#: eos/saveddata/damagePattern.py:64 eos/saveddata/damagePattern.py:65
+#: eos/saveddata/damagePattern.py:66 eos/saveddata/damagePattern.py:67
+#: eos/saveddata/damagePattern.py:68 eos/saveddata/damagePattern.py:69
+#: eos/saveddata/damagePattern.py:70 eos/saveddata/damagePattern.py:71
+#: eos/saveddata/damagePattern.py:72 eos/saveddata/damagePattern.py:73
+msgid "Hybrid Charges"
+msgstr "하이브리드 탄약"
+
+#: gui/builtinItemStatsViews/itemEffects.py:35
+msgid "ID"
+msgstr "ID"
+
+#: eos/saveddata/targetProfile.py:293
+msgid "Ideal Target"
+msgstr "이상적인 목표"
+
+#: gui/builtinContextMenus/graphDroneControlRange.py:23
+msgid "Ignore Drone Control Range"
+msgstr "드론 통제거리 무시"
+
+#: gui/builtinContextMenus/graphLockRange.py:23
+msgid "Ignore Lock Range"
+msgstr "타겟팅 거리 무시"
+
+#: gui/builtinContextMenus/graphDmgIgnoreResists.py:23
+msgid "Ignore Target Resists"
+msgstr "대상 저항력 무시"
+
+#: gui/setEditor.py:62
+msgid "Implant Set"
+msgstr "임플란트 세트"
+
+#: gui/setEditor.py:122
+msgid "Implant Set Editor"
+msgstr "임플란트 세트 에디터"
+
+#: gui/setEditor.py:50
+msgid "Implant Set name already in use, please choose another."
+msgstr "이미 사용중인 이름입니다."
+
+#: gui/copySelectDialog.py:47 gui/copySelectDialog.py:55
+#: gui/builtinContextMenus/additionsExportAll.py:21
+#: gui/builtinContextMenus/additionsExportAll.py:22
+#: gui/builtinContextMenus/additionsExportSelection.py:21
+#: gui/builtinContextMenus/additionsExportSelection.py:22
+#: gui/builtinContextMenus/additionsImport.py:22
+#: gui/builtinContextMenus/additionsImport.py:23 gui/characterEditor.py:161
+#: gui/additionsPane.py:75
+msgid "Implants"
+msgstr "임플란트"
+
+#: gui/builtinContextMenus/priceOptions.py:54
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:85
+msgid "Implants && Boosters"
+msgstr "임플란트 && 부스터"
+
+#: gui/propertyEditor.py:38
+msgid "Import"
+msgstr "가져오기"
+
+#: gui/mainFrame.py:946
+msgid "Import Error"
+msgstr "가져오기 오류"
+
+#: gui/characterEditor.py:442
+msgid "Import Skills"
+msgstr "스킬 가져오기"
+
+#: gui/mainMenuBar.py:88
+msgid "Import a fit from the clipboard"
+msgstr "클립보드에서 피팅 가져오기"
+
+#: gui/mainMenuBar.py:118
+msgid "Import characters into pyfa from file"
+msgstr ""
+
+#: gui/mainMenuBar.py:91
+msgid "Import fittings into pyfa"
+msgstr "pyfa로 피팅 불러오기"
+
+#: gui/setEditor.py:148
+msgid "Import implant sets from clipboard"
+msgstr "클립보드로 임플란트 불러오기"
+
+#: gui/propertyEditor.py:38 gui/propertyEditor.py:39
+msgid "Import overrides"
+msgstr ""
+
+#: gui/patternEditor.py:171
+msgid "Import patterns from clipboard"
+msgstr "클립보드에서 패턴 불러오기"
+
+#: gui/targetProfileEditor.py:221
+msgid "Import profiles from clipboard"
+msgstr "클립보드에서 프로필 불러오기"
+
+#: gui/propertyEditor.py:107
+msgid "Import pyfa override file"
+msgstr ""
+
+#: gui/characterEditor.py:372
+msgid "Import skills from clipboard"
+msgstr "클립보드에서 스킬 불러오기"
+
+#: gui/esiFittings.py:64
+msgid "Import to pyfa"
+msgstr "pyfa로 불러오기"
+
+#: gui/mainFrame.py:1019
+msgid "Importing Character..."
+msgstr "캐릭터 불러오기.."
+
+#: gui/mainFrame.py:844
+msgid "Importing fits"
+msgstr "패팅 불러오기"
+
+#: gui/characterEditor.py:440
+msgid "Importing skills into this character will set the skill levels as pending. To save the skills permanently, please click the Save button at the bottom of the window after importing"
+msgstr ""
+
+#: gui/copySelectDialog.py:59
+msgid "Include formatting tags to paste fit directly into corp bulletins, MOTD, etc."
+msgstr ""
+
+#: gui/builtinStatsViews/resistancesViewFull.py:115
+msgid "Incoming damage pattern"
+msgstr "들어오는 피해 분포"
+
+#: gui/targetProfileEditor.py:50
+msgid "Incorrect formatting (decimals only)"
+msgstr "포맷이 잘못되었습니다. (숫자만 입력 가능합니다.)"
+
+#: gui/targetProfileEditor.py:52
+msgid "Incorrect range (must be 0-100)"
+msgstr "범위를 벗어났습니다. (0-100 안의 값이여야 합니다.)"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:121
+msgid "Industrial ship hold"
+msgstr "인더스트리얼 함선 창고"
+
+#: graphs/data/fitMobility/graph.py:46
+msgid "Inertia Modifier attribute value of the target ship"
+msgstr "대상 함선의 관성 계수"
+
+#: eos/saveddata/damagePattern.py:87
+msgid "Inferno"
+msgstr "인페르노"
+
+#: eos/saveddata/damagePattern.py:47
+msgid "Infrared"
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:164
+msgid "Interceptor"
+msgstr "인터셉터"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:65
+msgid "Interested in helping with translations?"
+msgstr "번역에 도움을 주고 싶으신가요?"
+
+#: gui/mainFrame.py:892
+msgid "Invalid Path"
+msgstr "잘못된 경로"
+
+#: gui/esiFittings.py:232
+msgid "Invalid Token"
+msgstr "유효하지 않은 토큰"
+
+#: eos/saveddata/damagePattern.py:130 eos/saveddata/damagePattern.py:131
+#: eos/saveddata/damagePattern.py:134 eos/saveddata/damagePattern.py:137
+#: eos/saveddata/damagePattern.py:140 eos/saveddata/damagePattern.py:143
+#: eos/saveddata/damagePattern.py:144 eos/saveddata/damagePattern.py:145
+#: eos/saveddata/damagePattern.py:146 eos/saveddata/damagePattern.py:147
+#: eos/saveddata/damagePattern.py:148 eos/saveddata/damagePattern.py:159
+#: eos/saveddata/damagePattern.py:160 eos/saveddata/damagePattern.py:161
+#: eos/saveddata/targetProfile.py:94 eos/saveddata/targetProfile.py:95
+#: eos/saveddata/targetProfile.py:96 eos/saveddata/targetProfile.py:97
+#: eos/saveddata/targetProfile.py:98 eos/saveddata/targetProfile.py:230
+#: eos/saveddata/targetProfile.py:231 eos/saveddata/targetProfile.py:232
+msgid "Invasion"
+msgstr "침공"
+
+#: eos/saveddata/damagePattern.py:66
+msgid "Iridium"
+msgstr "이리듐탄"
+
+#: eos/saveddata/damagePattern.py:64
+msgid "Iron"
+msgstr "강철탄"
+
+#: gui/builtinItemStatsViews/itemCompare.py:147
+#: gui/builtinContextMenus/itemRemove.py:43
+#: gui/builtinContextMenus/itemStats.py:38
+#: gui/builtinContextMenus/itemMarketJump.py:44
+#: gui/builtinContextMenus/ammoToDmgPattern.py:32
+msgid "Item"
+msgstr "아이템"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:112
+msgid "Item Market Group Jump"
+msgstr ""
+
+#: gui/itemStats.py:58
+msgid "Item stats"
+msgstr "아이템 스탯"
+
+#: eos/saveddata/damagePattern.py:118 eos/saveddata/targetProfile.py:88
+msgid "Jaguar"
+msgstr "재규어"
+
+#: eos/saveddata/damagePattern.py:153 eos/saveddata/targetProfile.py:76
+msgid "Khanid"
+msgstr "카니드"
+
+#: eos/saveddata/damagePattern.py:41
+#: gui/builtinContextMenus/moduleAmmoChange.py:27
+msgid "Kinetic"
+msgstr "키네틱"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:87
+#: gui/targetProfileEditor.py:121
+msgid "Kinetic resistance"
+msgstr "키네틱 저항력"
+
+#: eos/saveddata/fit.py:402
+msgid "Ladar"
+msgstr "라이다"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:38
+msgid "Language (requires restart)"
+msgstr "언어 (재시작 필요)"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:120
+msgid "Large ship hold"
+msgstr "대형 함선 창고"
+
+#: gui/builtinStatsViews/capacitorViewFull.py:77
+#: gui/builtinStatsViews/capacitorViewFull.py:170
+msgid "Lasts "
+msgstr ""
+
+#: gui/builtinStatsViews/resourcesViewFull.py:112
+msgid "Launcher hardpoints"
+msgstr "런처 슬롯"
+
+#: eos/saveddata/damagePattern.py:67
+msgid "Lead"
+msgstr "납탄"
+
+#: gui/builtinContextMenus/moduleAmmoChange.py:94
+#: gui/builtinContextMenus/moduleAmmoChange.py:112
+msgid "Less Damage"
+msgstr ""
+
+#: gui/characterEditor.py:343
+msgid "Level"
+msgstr "레벨"
+
+#: gui/builtinContextMenus/skillAffectors.py:79
+#, python-format
+msgid "Level %s"
+msgstr "%s 레벨"
+
+#: gui/builtinItemStatsViews/itemDependants.py:46 gui/characterEditor.py:591
+#: gui/characterEditor.py:616 gui/characterEditor.py:649
+msgid "Level {}"
+msgstr "레벨 {}"
+
+#: gui/characterEditor.py:532
+msgid "Level {}d"
+msgstr "레벨 {}d"
+
+#: gui/builtinAdditionPanes/fighterView.py:62
+msgid "Light"
+msgstr ""
+
+#: service/market.py:266
+msgid "Limited Issue Ships"
+msgstr "한정판 함선"
+
+#: gui/copySelectDialog.py:46 gui/copySelectDialog.py:53
+msgid "Loaded Charges"
+msgstr "장착된 차지"
+
+#: gui/mainFrame.py:271
+msgid "Loading previous fits..."
+msgstr "이전 피팅 불러오기.."
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:39
+msgid "Local Server"
+msgstr "로컬 서버"
+
+#: gui/builtinContextMenus/envEffectAdd.py:205
+msgid "Localized"
+msgstr ""
+
+#: graphs/data/fitLockTime/graph.py:34
+msgid "Lock Time"
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:201
+msgid "Lock Times"
+msgstr "타겟팅 시간"
+
+#: graphs/data/fitEwarStats/graph.py:39
+msgid "Lock range reduction"
+msgstr ""
+
+#: graphs/data/fitLockTime/graph.py:36
+msgid "Lock time"
+msgstr ""
+
+#: gui/characterEditor.py:794
+msgid "Log In with EVE SSO"
+msgstr "EVE SSO를 통해 로그인하기"
+
+#: gui/builtinPreferenceViews/pyfaLoggingPreferences.py:38
+msgid "Log file location:"
+msgstr "로그 파일 위치:"
+
+#: gui/builtinPreferenceViews/pyfaLoggingPreferences.py:19
+msgid "Logging"
+msgstr "로깅"
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:38
+msgid "Login Authentication Method"
+msgstr "로그인 인증 방법"
+
+#: gui/builtinContextMenus/moduleAmmoChange.py:82
+msgid "Long Range"
+msgstr "장거리"
+
+#: gui/builtinViewColumns/baseName.py:61
+msgid "Low"
+msgstr ""
+
+#: gui/builtinContextMenus/fitSystemSecurity.py:20
+msgid "Low Security"
+msgstr "로우 시큐리티"
+
+#: graphs/style.py:56
+msgid "Magenta"
+msgstr ""
+
+#: eos/saveddata/fit.py:402
+msgid "Magnetometric"
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:114
+msgid "Maintenance bay"
+msgstr "함선 정비 격납고"
+
+#: gui/mainFrame.py:671
+msgid "Manage Characters"
+msgstr "캐릭터 관리"
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:39
+msgid "Manual"
+msgstr "수동"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:87
+msgid "Manual proxy settings"
+msgstr ""
+
+#: gui/mainFrame.py:180
+msgid "Market"
+msgstr "마켓"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:23
+msgid "Market & Prices"
+msgstr "상점 & 가격"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:30
+msgid "Market && Prices"
+msgstr "상점 && 가격"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:99
+msgid "Market Group Selection"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:91
+msgid "Market Search && Recent Items"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:39
+msgid "Market Search Delay (ms):"
+msgstr "마켓 검색 딜레이(ms):"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:225
+msgid "Mass:\t{:,.0f}kg"
+msgstr "질량: {:,.0f}kg"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:124
+msgid "Material bay"
+msgstr "재료 창고"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:208
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:241
+#, python-format
+msgid "Max Warp Distance: %.1f AU"
+msgstr "최대 워프 거리: %.1f AU"
+
+#: gui/targetProfileEditor.py:124
+msgid "Maximum speed"
+msgstr "최대 속도"
+
+#: gui/builtinViewColumns/baseName.py:60
+msgid "Med"
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:119
+msgid "Medium ship hold"
+msgstr "중형 함소 창고"
+
+#: eos/saveddata/damagePattern.py:58
+msgid "Meson"
+msgstr "메손"
+
+#: gui/builtinContextMenus/envEffectAdd.py:105
+msgid "Metaliminal Storm"
+msgstr "메타경계성 폭풍"
+
+#: eos/saveddata/damagePattern.py:46
+msgid "Microwave"
+msgstr "마이크로파"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:123
+msgid "Mineral hold"
+msgstr "정제된 광물 창고"
+
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:42
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:50
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:58
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:71
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:79
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:87
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:99
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:104
+msgid "Minimal"
+msgstr "최소"
+
+#: gui/builtinStatsViews/miningyieldViewFull.py:39
+msgid "Mining Yield"
+msgstr "채광 수익"
+
+#: eos/saveddata/targetProfile.py:59
+msgid "Minmatar (Armor)"
+msgstr "민마타 (장갑)"
+
+#: eos/saveddata/targetProfile.py:58
+msgid "Minmatar (Shield)"
+msgstr "민마타 (실드)"
+
+#: eos/saveddata/damagePattern.py:147 eos/saveddata/damagePattern.py:148
+#: eos/saveddata/targetProfile.py:98
+msgid "Minmatar EDENCOM Entities"
+msgstr "민마타 EDENCOM 객체"
+
+#: eos/saveddata/damagePattern.py:154 eos/saveddata/targetProfile.py:77
+msgid "Minmatar Republic"
+msgstr "민마타 공화국"
+
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:87
+msgid "Misc"
+msgstr ""
+
+#: gui/builtinViewColumns/misc.py:50
+msgid "Misc data"
+msgstr ""
+
+#: graphs/data/fitEwarStats/graph.py:41
+msgid "Missile flight range reduction"
+msgstr "미사일 체공시간 감소"
+
+#: eos/saveddata/damagePattern.py:86 eos/saveddata/damagePattern.py:87
+#: eos/saveddata/damagePattern.py:88 eos/saveddata/damagePattern.py:89
+msgid "Missiles"
+msgstr "미사일"
+
+#: eos/saveddata/damagePattern.py:149 eos/saveddata/damagePattern.py:150
+#: eos/saveddata/damagePattern.py:151 eos/saveddata/damagePattern.py:152
+#: eos/saveddata/damagePattern.py:153 eos/saveddata/damagePattern.py:154
+#: eos/saveddata/damagePattern.py:155 eos/saveddata/damagePattern.py:156
+#: eos/saveddata/targetProfile.py:72 eos/saveddata/targetProfile.py:73
+#: eos/saveddata/targetProfile.py:74 eos/saveddata/targetProfile.py:75
+#: eos/saveddata/targetProfile.py:76 eos/saveddata/targetProfile.py:77
+#: eos/saveddata/targetProfile.py:78
+msgid "Mission"
+msgstr "미션"
+
+#: gui/builtinContextMenus/moduleAmmoChange.py:28
+msgid "Mixed"
+msgstr "혼합"
+
+#: eos/saveddata/damagePattern.py:86
+msgid "Mjolnir"
+msgstr "묠니르"
+
+#: graphs/data/fitMobility/graph.py:32
+msgid "Mobility"
+msgstr "기동성"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:83
+msgid "Mode:"
+msgstr "모드:"
+
+#: gui/builtinContextMenus/moduleFill.py:24
+msgid "Module"
+msgstr "모듈"
+
+#: graphs/data/fitMobility/graph.py:37
+msgid "Momentum"
+msgstr "추진력"
+
+#: eos/saveddata/damagePattern.py:155 eos/saveddata/targetProfile.py:78
+msgid "Mordus Legion"
+msgstr "모르두 군단"
+
+#: gui/builtinContextMenus/moduleAmmoChange.py:97
+#: gui/builtinContextMenus/moduleAmmoChange.py:115
+msgid "More Damage"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:52
+msgid "Multifrequency"
+msgstr "멀티프리퀀시"
+
+#: eos/saveddata/fit.py:408
+msgid "Multispectral"
+msgstr "다중스펙트럼"
+
+#: gui/copySelectDialog.py:54
+msgid "Mutated Attributes"
+msgstr "변이 속성"
+
+#: gui/itemStats.py:170
+msgid "Mutations"
+msgstr "변이"
+
+#: eos/saveddata/damagePattern.py:95 eos/saveddata/damagePattern.py:96
+#: eos/saveddata/damagePattern.py:97 eos/saveddata/damagePattern.py:98
+#: eos/saveddata/damagePattern.py:99 eos/saveddata/damagePattern.py:100
+#: eos/saveddata/damagePattern.py:101 eos/saveddata/damagePattern.py:102
+#: eos/saveddata/damagePattern.py:103 eos/saveddata/damagePattern.py:104
+#: eos/saveddata/damagePattern.py:105 eos/saveddata/damagePattern.py:106
+#: eos/saveddata/damagePattern.py:107 eos/saveddata/damagePattern.py:108
+#: eos/saveddata/damagePattern.py:109 eos/saveddata/damagePattern.py:110
+#: eos/saveddata/damagePattern.py:111 eos/saveddata/damagePattern.py:112
+#: eos/saveddata/damagePattern.py:113 eos/saveddata/damagePattern.py:114
+#: eos/saveddata/damagePattern.py:115 eos/saveddata/damagePattern.py:116
+#: eos/saveddata/damagePattern.py:117 eos/saveddata/damagePattern.py:118
+#: eos/saveddata/damagePattern.py:119 eos/saveddata/damagePattern.py:120
+#: eos/saveddata/damagePattern.py:121 eos/saveddata/damagePattern.py:122
+#: eos/saveddata/damagePattern.py:123 eos/saveddata/damagePattern.py:124
+#: eos/saveddata/damagePattern.py:125 eos/saveddata/damagePattern.py:126
+#: eos/saveddata/damagePattern.py:127 eos/saveddata/damagePattern.py:128
+#: eos/saveddata/damagePattern.py:130 eos/saveddata/damagePattern.py:131
+#: eos/saveddata/damagePattern.py:134 eos/saveddata/damagePattern.py:137
+#: eos/saveddata/damagePattern.py:140 eos/saveddata/damagePattern.py:143
+#: eos/saveddata/damagePattern.py:144 eos/saveddata/damagePattern.py:145
+#: eos/saveddata/damagePattern.py:146 eos/saveddata/damagePattern.py:147
+#: eos/saveddata/damagePattern.py:148 eos/saveddata/damagePattern.py:149
+#: eos/saveddata/damagePattern.py:150 eos/saveddata/damagePattern.py:151
+#: eos/saveddata/damagePattern.py:152 eos/saveddata/damagePattern.py:153
+#: eos/saveddata/damagePattern.py:154 eos/saveddata/damagePattern.py:155
+#: eos/saveddata/damagePattern.py:156 eos/saveddata/damagePattern.py:157
+#: eos/saveddata/damagePattern.py:158 eos/saveddata/damagePattern.py:159
+#: eos/saveddata/damagePattern.py:160 eos/saveddata/damagePattern.py:161
+#: eos/saveddata/targetProfile.py:60 eos/saveddata/targetProfile.py:61
+#: eos/saveddata/targetProfile.py:62 eos/saveddata/targetProfile.py:63
+#: eos/saveddata/targetProfile.py:64 eos/saveddata/targetProfile.py:65
+#: eos/saveddata/targetProfile.py:66 eos/saveddata/targetProfile.py:67
+#: eos/saveddata/targetProfile.py:68 eos/saveddata/targetProfile.py:69
+#: eos/saveddata/targetProfile.py:70 eos/saveddata/targetProfile.py:71
+#: eos/saveddata/targetProfile.py:72 eos/saveddata/targetProfile.py:73
+#: eos/saveddata/targetProfile.py:74 eos/saveddata/targetProfile.py:75
+#: eos/saveddata/targetProfile.py:76 eos/saveddata/targetProfile.py:77
+#: eos/saveddata/targetProfile.py:78 eos/saveddata/targetProfile.py:79
+#: eos/saveddata/targetProfile.py:80 eos/saveddata/targetProfile.py:81
+#: eos/saveddata/targetProfile.py:82 eos/saveddata/targetProfile.py:83
+#: eos/saveddata/targetProfile.py:84 eos/saveddata/targetProfile.py:85
+#: eos/saveddata/targetProfile.py:86 eos/saveddata/targetProfile.py:87
+#: eos/saveddata/targetProfile.py:88 eos/saveddata/targetProfile.py:89
+#: eos/saveddata/targetProfile.py:90 eos/saveddata/targetProfile.py:91
+#: eos/saveddata/targetProfile.py:92 eos/saveddata/targetProfile.py:94
+#: eos/saveddata/targetProfile.py:95 eos/saveddata/targetProfile.py:96
+#: eos/saveddata/targetProfile.py:97 eos/saveddata/targetProfile.py:98
+#: eos/saveddata/targetProfile.py:99 eos/saveddata/targetProfile.py:100
+#: eos/saveddata/targetProfile.py:101 eos/saveddata/targetProfile.py:102
+#: eos/saveddata/targetProfile.py:103 eos/saveddata/targetProfile.py:104
+#: eos/saveddata/targetProfile.py:105 eos/saveddata/targetProfile.py:106
+#: eos/saveddata/targetProfile.py:107 eos/saveddata/targetProfile.py:108
+#: eos/saveddata/targetProfile.py:109 eos/saveddata/targetProfile.py:110
+#: eos/saveddata/targetProfile.py:111 eos/saveddata/targetProfile.py:112
+#: eos/saveddata/targetProfile.py:113 eos/saveddata/targetProfile.py:114
+#: eos/saveddata/targetProfile.py:115 eos/saveddata/targetProfile.py:116
+#: eos/saveddata/targetProfile.py:117 eos/saveddata/targetProfile.py:118
+#: eos/saveddata/targetProfile.py:119 eos/saveddata/targetProfile.py:120
+#: eos/saveddata/targetProfile.py:121 eos/saveddata/targetProfile.py:122
+#: eos/saveddata/targetProfile.py:123 eos/saveddata/targetProfile.py:124
+#: eos/saveddata/targetProfile.py:125 eos/saveddata/targetProfile.py:126
+#: eos/saveddata/targetProfile.py:127 eos/saveddata/targetProfile.py:128
+#: eos/saveddata/targetProfile.py:129 eos/saveddata/targetProfile.py:130
+#: eos/saveddata/targetProfile.py:131 eos/saveddata/targetProfile.py:132
+#: eos/saveddata/targetProfile.py:133 eos/saveddata/targetProfile.py:134
+#: eos/saveddata/targetProfile.py:135 eos/saveddata/targetProfile.py:136
+#: eos/saveddata/targetProfile.py:137 eos/saveddata/targetProfile.py:138
+#: eos/saveddata/targetProfile.py:139 eos/saveddata/targetProfile.py:140
+#: eos/saveddata/targetProfile.py:141 eos/saveddata/targetProfile.py:142
+#: eos/saveddata/targetProfile.py:143 eos/saveddata/targetProfile.py:144
+#: eos/saveddata/targetProfile.py:145 eos/saveddata/targetProfile.py:146
+#: eos/saveddata/targetProfile.py:147 eos/saveddata/targetProfile.py:148
+#: eos/saveddata/targetProfile.py:149 eos/saveddata/targetProfile.py:150
+#: eos/saveddata/targetProfile.py:151 eos/saveddata/targetProfile.py:152
+#: eos/saveddata/targetProfile.py:153 eos/saveddata/targetProfile.py:154
+#: eos/saveddata/targetProfile.py:155 eos/saveddata/targetProfile.py:156
+#: eos/saveddata/targetProfile.py:157 eos/saveddata/targetProfile.py:158
+#: eos/saveddata/targetProfile.py:159 eos/saveddata/targetProfile.py:160
+#: eos/saveddata/targetProfile.py:161 eos/saveddata/targetProfile.py:162
+#: eos/saveddata/targetProfile.py:163 eos/saveddata/targetProfile.py:164
+#: eos/saveddata/targetProfile.py:165 eos/saveddata/targetProfile.py:166
+#: eos/saveddata/targetProfile.py:167 eos/saveddata/targetProfile.py:168
+#: eos/saveddata/targetProfile.py:169 eos/saveddata/targetProfile.py:170
+#: eos/saveddata/targetProfile.py:171 eos/saveddata/targetProfile.py:172
+#: eos/saveddata/targetProfile.py:173 eos/saveddata/targetProfile.py:174
+#: eos/saveddata/targetProfile.py:175 eos/saveddata/targetProfile.py:176
+#: eos/saveddata/targetProfile.py:177 eos/saveddata/targetProfile.py:178
+#: eos/saveddata/targetProfile.py:179 eos/saveddata/targetProfile.py:180
+#: eos/saveddata/targetProfile.py:181 eos/saveddata/targetProfile.py:182
+#: eos/saveddata/targetProfile.py:183 eos/saveddata/targetProfile.py:184
+#: eos/saveddata/targetProfile.py:185 eos/saveddata/targetProfile.py:186
+#: eos/saveddata/targetProfile.py:187 eos/saveddata/targetProfile.py:188
+#: eos/saveddata/targetProfile.py:189 eos/saveddata/targetProfile.py:191
+#: eos/saveddata/targetProfile.py:192 eos/saveddata/targetProfile.py:193
+#: eos/saveddata/targetProfile.py:194 eos/saveddata/targetProfile.py:195
+#: eos/saveddata/targetProfile.py:196 eos/saveddata/targetProfile.py:197
+#: eos/saveddata/targetProfile.py:198 eos/saveddata/targetProfile.py:199
+#: eos/saveddata/targetProfile.py:200 eos/saveddata/targetProfile.py:201
+#: eos/saveddata/targetProfile.py:202 eos/saveddata/targetProfile.py:203
+#: eos/saveddata/targetProfile.py:204 eos/saveddata/targetProfile.py:205
+#: eos/saveddata/targetProfile.py:206 eos/saveddata/targetProfile.py:207
+#: eos/saveddata/targetProfile.py:208 eos/saveddata/targetProfile.py:209
+#: eos/saveddata/targetProfile.py:210 eos/saveddata/targetProfile.py:211
+#: eos/saveddata/targetProfile.py:212 eos/saveddata/targetProfile.py:213
+#: eos/saveddata/targetProfile.py:214 eos/saveddata/targetProfile.py:215
+#: eos/saveddata/targetProfile.py:216 eos/saveddata/targetProfile.py:217
+#: eos/saveddata/targetProfile.py:218 eos/saveddata/targetProfile.py:219
+#: eos/saveddata/targetProfile.py:220 eos/saveddata/targetProfile.py:221
+#: eos/saveddata/targetProfile.py:222 eos/saveddata/targetProfile.py:223
+#: eos/saveddata/targetProfile.py:224 eos/saveddata/targetProfile.py:225
+#: eos/saveddata/targetProfile.py:226 eos/saveddata/targetProfile.py:227
+#: eos/saveddata/targetProfile.py:228 eos/saveddata/targetProfile.py:229
+#: eos/saveddata/targetProfile.py:230 eos/saveddata/targetProfile.py:231
+#: eos/saveddata/targetProfile.py:232
+msgid "NPC"
+msgstr "NPC"
+
+#: gui/builtinItemStatsViews/itemEffects.py:30
+#: gui/builtinViewColumns/baseName.py:55
+msgid "Name"
+msgstr "이름"
+
+#: gui/esiFittings.py:334
+msgid "Need at least one ESI character to export"
+msgstr "내보내기 위해서는 적어도 한개의 ESI 캐릭터가 필요합니다"
+
+#: gui/esiFittings.py:117
+msgid "Need at least one ESI character to fetch"
+msgstr "가져오기 위해서는 적어도 한개의 ESI 캐릭터가 필요합니다"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:17
+msgid "Network"
+msgstr "네트워크"
+
+#: gui/builtinStatsViews/capacitorViewFull.py:149
+msgid "Neutralizer resistance"
+msgstr "뉴트럴라이저 저항력"
+
+#: graphs/data/fitEwarStats/graph.py:36
+msgid "Neuts: cap per second"
+msgstr "뉴트럴라이즈: 초당 캐패시터 뉴트량"
+
+#: gui/builtinContextMenus/itemAmountChange.py:98
+msgid "New Amount ({}-{})"
+msgstr "새 수량({}-{})"
+
+#: gui/builtinContextMenus/itemAmountChange.py:98
+msgid "New Amount:"
+msgstr "새 수량:"
+
+#: gui/builtinContextMenus/implantSetSave.py:45
+msgid "New Implant Set"
+msgstr "새 임플란트 세트"
+
+#: gui/builtinShipBrowser/navigationPanel.py:51
+msgid "New fitting"
+msgstr "새 피팅"
+
+#: gui/builtinItemStatsViews/itemEffects.py:58
+msgid "No"
+msgstr "ㄴ"
+
+#: gui/builtinContextMenus/targetProfile/switcher.py:85
+msgid "No Profile"
+msgstr "프로필 없음"
+
+#: gui/characterSelection.py:230
+msgid "No active fit"
+msgstr "활성화된 피팅 없음"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:92
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:100
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:106
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:113
+msgid "No changes to meta buttons"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:87
+msgid "No proxy"
+msgstr "프록시 없음"
+
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:42
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:50
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:58
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:71
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:79
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:87
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:99
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:104
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:153
+#: gui/characterEditor.py:855
+msgid "None"
+msgstr ""
+
+#: graphs/style.py:80
+msgid "Normal"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:131
+msgid "Normal Subcaps"
+msgstr "일반 서브캐피탈"
+
+#: gui/builtinContextMenus/skillAffectors.py:77
+msgid "Not Learned"
+msgstr "아직 배우지 않음"
+
+#: gui/characterEditor.py:399 service/character.py:322
+msgid "Not learned"
+msgstr "아직 배우지 않음"
+
+#: gui/additionsPane.py:87
+msgid "Notes"
+msgstr "노트"
+
+#: eos/saveddata/damagePattern.py:89
+msgid "Nova"
+msgstr "노바"
+
+#: eos/saveddata/damagePattern.py:77
+msgid "Nuclear"
+msgstr ""
+
+#: gui/builtinContextMenus/fitSystemSecurity.py:21
+msgid "Null Security"
+msgstr "널 시큐리티"
+
+#: gui/mainMenuBar.py:167
+msgid "Open &Dev Tools"
+msgstr "개발 도구 열기"
+
+#: gui/characterSelection.py:150
+msgid "Open Character Editor"
+msgstr "캐릭터 에디터 열기"
+
+#: gui/builtinContextMenus/fitOpenNewTab.py:37
+msgid "Open Fit in New Tab"
+msgstr "새 탭에서 피팅 열기"
+
+#: gui/mainFrame.py:1010
+msgid "Open One Or More Character Files"
+msgstr "하나 혹은 그 이상의 캐릭터 파일 열기"
+
+#: gui/mainFrame.py:834
+msgid "Open One Or More Fitting Files"
+msgstr "하나 혹은 그 이상의 피팅 파일 열기"
+
+#: gui/mainMenuBar.py:166
+msgid "Open Wid&gets Inspect tool"
+msgstr "조사 도구 위젯 열기"
+
+#: gui/mainMenuBar.py:166
+msgid "Open Widgets Inspect tool"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:136
+msgid "Open fittings in a new page by default"
+msgstr "기본 설정으로 새 페이지에서 피팅 열기"
+
+#: gui/builtinContextMenus/shipJump.py:35
+msgid "Open in Fitting Browser"
+msgstr "피팅 브라우저에서 열기"
+
+#: gui/builtinShipBrowser/fitItem.py:227
+msgid "Open in new tab"
+msgstr "새 탭에서 열기"
+
+#: gui/copySelectDialog.py:50
+msgid "Optimize Prices"
+msgstr "가격 최적화"
+
+#: graphs/style.py:55
+msgid "Orange"
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:122
+msgid "Ore hold"
+msgstr "광물 창고"
+
+#: eos/saveddata/targetProfile.py:79 eos/saveddata/targetProfile.py:80
+msgid "Other"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:100 eos/saveddata/targetProfile.py:100
+#: eos/saveddata/targetProfile.py:107 eos/saveddata/targetProfile.py:114
+#: eos/saveddata/targetProfile.py:121 eos/saveddata/targetProfile.py:128
+#: eos/saveddata/targetProfile.py:135 eos/saveddata/targetProfile.py:142
+#: eos/saveddata/targetProfile.py:149 eos/saveddata/targetProfile.py:156
+#: eos/saveddata/targetProfile.py:163 eos/saveddata/targetProfile.py:170
+#: eos/saveddata/targetProfile.py:177 eos/saveddata/targetProfile.py:184
+msgid "Overmind"
+msgstr "오버마인드"
+
+#: gui/builtinStatsViews/rechargeViewFull.py:75
+msgid "Passive shield recharge"
+msgstr "패시브 실드 회복"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:125
+msgid "Password:"
+msgstr "비밀번호:"
+
+#: gui/builtinContextMenus/additionsImport.py:40
+msgid "Paste {}"
+msgstr "붙여넣기 {}"
+
+#: gui/patternEditor.py:295
+msgid "Patterns exported to clipboard"
+msgstr "패턴이 클립보드에 복사되었습니다"
+
+#: gui/setEditor.py:210 gui/patternEditor.py:276
+msgid "Patterns successfully imported from clipboard"
+msgstr "클립보드에서 패턴을 성공적으로 가져왔습니다"
+
+#: eos/saveddata/damagePattern.py:82
+msgid "Phased Plasma"
+msgstr "위상 플라즈마"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:128
+msgid "Planetary goods hold"
+msgstr "행성 자원 창고"
+
+#: gui/mainFrame.py:721
+msgid "Please Wait..."
+msgstr "잠시만 기다려주십시오.."
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:32
+msgid "Please see the pyfa wiki on GitHub for information regarding these options."
+msgstr "이 옵션에 대한 정보를 더 알고싶으시다면 GitHub의 pyfa wiki를 방문해주세요"
+
+#: gui/esiFittings.py:315
+msgid "Please select an active fitting in the main window"
+msgstr ""
+
+#: gui/characterEditor.py:758
+msgid "Please select another character or make a new one."
+msgstr "다른 캐릭터를 선택하거나 새롭게 만들어주세요"
+
+#: gui/mainFrame.py:895
+msgid "Please verify path location pyfa's preferences."
+msgstr ""
+
+#: gui/builtinContextMenus/graphFitAmmoPicker.py:29
+msgid "Plot with Different Ammo..."
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:70
+msgid "Plutonium"
+msgstr "플루토늄"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:164
+msgid "Pod"
+msgstr "캡슐"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:109
+msgid "Port:"
+msgstr "포트:"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:154
+msgid "PowerGrid"
+msgstr "파워그리드"
+
+#: gui/preferenceDialog.py:31
+msgid "Preferences"
+msgstr "설정"
+
+#: gui/builtinPreferenceViews/pyfaLoggingPreferences.py:59
+msgid "Pressing this button will cause all logs in memory to write to the log file:"
+msgstr "이 단추를 누르면 이제부터 모든 로그를 기록합니다."
+
+#: gui/builtinItemStatsViews/itemCompare.py:155
+#: gui/builtinStatsViews/priceViewFull.py:40
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:99
+msgid "Price"
+msgstr "가격"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:41
+msgid "Pricing updates"
+msgstr "가격 업데이트"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:265
+#, python-format
+msgid "Probe Size: %.3f"
+msgstr "프로브 크기: %.3f"
+
+#: gui/targetProfileEditor.py:372
+msgid "Profiles exported to clipboard"
+msgstr "프로필을 클립보드에 복사했습니다"
+
+#: gui/targetProfileEditor.py:352
+msgid "Profiles successfully imported from clipboard"
+msgstr "성공적으로 프로필을 클립보드에서 가져왔습니다"
+
+#: gui/builtinShipBrowser/fitItem.py:230
+msgid "Project onto Active Fit"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:61
+msgid "Project onto Fit"
+msgstr ""
+
+#: gui/builtinContextMenus/itemProject.py:34
+#, python-brace-format
+msgid "Project {0} onto Fit"
+msgstr ""
+
+#: gui/additionsPane.py:81
+msgid "Projected"
+msgstr ""
+
+#: gui/builtinAdditionPanes/projectedView.py:304
+#: gui/builtinAdditionPanes/projectedView.py:314
+#: gui/builtinAdditionPanes/projectedView.py:319
+#: gui/builtinAdditionPanes/projectedView.py:324
+msgid "Projected Item"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:74 eos/saveddata/damagePattern.py:75
+#: eos/saveddata/damagePattern.py:76 eos/saveddata/damagePattern.py:77
+#: eos/saveddata/damagePattern.py:78 eos/saveddata/damagePattern.py:79
+#: eos/saveddata/damagePattern.py:80 eos/saveddata/damagePattern.py:81
+#: eos/saveddata/damagePattern.py:82 eos/saveddata/damagePattern.py:83
+#: eos/saveddata/damagePattern.py:84 eos/saveddata/damagePattern.py:85
+msgid "Projectile Ammo"
+msgstr "발사체 탄약"
+
+#: gui/itemStats.py:200
+msgid "Properties"
+msgstr "속성"
+
+#: gui/builtinContextMenus/shipModeChange.py:19
+msgid "Propulsion"
+msgstr "추진기"
+
+#: eos/saveddata/damagePattern.py:78
+msgid "Proton"
+msgstr "양성자"
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:49
+msgid "Proxy settings"
+msgstr "프록시 설정"
+
+#: graphs/style.py:58
+msgid "Purple"
+msgstr ""
+
+#: gui/builtinContextMenus/envEffectAdd.py:222
+msgid "PvP Weather"
+msgstr ""
+
+#: gui/aboutData.py:49
+msgid "Pyfa (the Python Fitting Assistant) is an open-source standalone application able to create and simulate fittings for EVE-Online SciFi MMORPG with a very high degree of accuracy. Pyfa can run on all platforms where Python and wxWidgets are supported."
+msgstr "Pyfa (the Python Fitting Assistant) 는 굉장히 높은 정확도로 피팅을 만들고 시뮬레이션 할수있는 독립적 오픈소스 어플리케이션입니다. Pyfa는 Python과 wxWidget이 있다면 모든 플랫폼에서 동작합니다."
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:44
+msgid "Pyfa Update checks"
+msgstr "Pyfa 업데이트 확인"
+
+#: gui/builtinPreferenceViews/pyfaUpdatePreferences.py:15
+msgid "Pyfa can automatically check and notify you of new releases. This feature is toggled in the Network settings. Here, you may allow pre-release notifications and view suppressed release notifications, if any."
+msgstr "Pyfa는 자동적으로 최신 릴리즈를 체크하여 사용자에게 안내할수있습니다. 이것은 네트워크 설정에서 켜고 끌수 있습니다."
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:69
+msgid "Pyfa language selection disabled. Please check if .mo files have been generated.\n"
+"Refer to locale/README.md for info."
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:129
+msgid "Quafe hold"
+msgstr "퀘이프 창고"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:153
+msgid "Quantity of active items"
+msgstr "활성화된 아이템 개수"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:153
+msgid "Quantity of all items"
+msgstr "모든 아이템 개수"
+
+#: eos/saveddata/fit.py:402
+msgid "Radar"
+msgstr "레이더"
+
+#: eos/saveddata/damagePattern.py:45
+msgid "Radio"
+msgstr "라디오파"
+
+#: gui/targetProfileEditor.py:126
+msgid "Radius"
+msgstr "반경"
+
+#: gui/builtinItemStatsViews/itemMutator.py:54
+msgid "Random stats"
+msgstr "무작위 스탯"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:63
+msgid "Range"
+msgstr "거리"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:222
+msgid "Raw HP: "
+msgstr "실제 HP: "
+
+#: gui/builtinStatsViews/resistancesViewFull.py:223
+#, python-format
+msgid "Raw: %d HP"
+msgstr "기초: %d HP"
+
+#: gui/mainFrame.py:652
+msgid "Re-enabling fitting restrictions for this fit will also remove any illegal items from the fit. Do you want to continue?"
+msgstr ""
+
+#: gui/builtinShipBrowser/navigationPanel.py:56
+#: gui/builtinShipBrowser/navigationPanel.py:129
+msgid "Recent Fits"
+msgstr "최근 피팅"
+
+#: gui/builtinMarketBrowser/marketTree.py:37
+msgid "Recently Used Items"
+msgstr "최근 사용된 아이템"
+
+#: gui/builtinStatsViews/rechargeViewFull.py:43
+msgid "Recharge rates"
+msgstr "재출전 시간"
+
+#: graphs/style.py:52
+msgid "Red"
+msgstr ""
+
+#: gui/mainMenuBar.py:84
+msgid "Redo the most recent undone action"
+msgstr "가장 최근의 작업을 취소합니다"
+
+#: gui/builtinItemStatsViews/itemAttributes.py:62
+#: gui/builtinItemStatsViews/itemAffectedBy.py:77
+#: gui/builtinItemStatsViews/itemCompare.py:79
+msgid "Refresh"
+msgstr "새로고침"
+
+#: gui/characterSelection.py:68
+msgid "Refresh Skills"
+msgstr "스킬 새로고침"
+
+#: gui/builtinStatsViews/rechargeViewFull.py:86
+msgid "Reinforced"
+msgstr "강화"
+
+#: graphs/data/fitRemoteReps/graph.py:62
+msgid "Reload ancillary RRs"
+msgstr "보조 원격 수리기 재탑재"
+
+#: graphs/data/fitRemoteReps/graph.py:48
+msgid "Remote Repairs"
+msgstr "원격 수리"
+
+#: gui/builtinStatsViews/outgoingViewMinimal.py:65
+#: gui/builtinStatsViews/outgoingViewFull.py:66
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:104
+msgid "Remote Reps"
+msgstr "원격 수리"
+
+#: gui/esiFittings.py:387
+msgid "Remove Character"
+msgstr "캐릭터 삭제"
+
+#: gui/propertyEditor.py:71
+msgid "Remove Overides for Item"
+msgstr ""
+
+#: gui/builtinContextMenus/itemRemove.py:42
+#, python-brace-format
+msgid "Remove {item}{stack}"
+msgstr "{item}{stack} 삭제"
+
+#: gui/builtinShipBrowser/fitItem.py:108
+msgid "Rename"
+msgstr "이름 변경"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:118
+msgid "Reopen previous fits on startup"
+msgstr "시작시 이전에 열었던 피팅 다시 열기"
+
+#: graphs/data/fitRemoteReps/graph.py:53
+msgid "Repair speed"
+msgstr "수리 속도"
+
+#: gui/copySelectDialog.py:50
+msgid "Replace items by cheaper alternatives"
+msgstr ""
+
+#: gui/itemStats.py:185
+msgid "Requirements"
+msgstr "요구사항"
+
+#: gui/builtinContextMenus/moduleSpool.py:98
+msgid "Reset"
+msgstr "초기화"
+
+#: gui/builtinPreferenceViews/pyfaUpdatePreferences.py:76
+msgid "Reset Suppression"
+msgstr ""
+
+#: gui/builtinItemStatsViews/itemMutator.py:51
+msgid "Reset defaults"
+msgstr "기본값으로 되돌리기"
+
+#: gui/builtinContextMenus/resistMode.py:41
+msgid "Resist Mode"
+msgstr ""
+
+#: gui/builtinStatsViews/resistancesViewFull.py:213
+msgid "Resist Multiplier: "
+msgstr "저항력 증폭: "
+
+#: gui/builtinStatsViews/resistancesViewFull.py:47
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:50
+msgid "Resistances"
+msgstr "저항력"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:84
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:42
+msgid "Resources"
+msgstr "자원"
+
+#: gui/builtinItemStatsViews/itemMutator.py:57
+msgid "Revert changes"
+msgstr "변경사항 취소"
+
+#: gui/builtinContextMenus/moduleMutations.py:33
+msgid "Revert to {}"
+msgstr "{}로 되돌리기"
+
+#: gui/builtinViewColumns/baseName.py:63
+msgid "Rig"
+msgstr "리그"
+
+#: eos/saveddata/damagePattern.py:108 eos/saveddata/damagePattern.py:126
+msgid "Rogue Drone"
+msgstr "로그 드론"
+
+#: eos/saveddata/damagePattern.py:160 eos/saveddata/targetProfile.py:231
+msgid "Rogue Drone Entities"
+msgstr "로그 드론 엔티티"
+
+#: eos/saveddata/targetProfile.py:63 eos/saveddata/targetProfile.py:69
+msgid "Rogue Drones"
+msgstr "로그 드론"
+
+#: gui/builtinItemStatsViews/itemEffects.py:34
+msgid "Run Time"
+msgstr "런타임"
+
+#: gui/esiFittings.py:368
+msgid "SSO Character Management"
+msgstr "SSO 캐릭터 관리"
+
+#: gui/ssoLogin.py:15 gui/ssoLogin.py:49
+msgid "SSO Login"
+msgstr "SSO 로그인"
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:45
+msgid "SSO Mode"
+msgstr "SSO 모드"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:126
+msgid "Salvage hold"
+msgstr "샐비지 자원 창고"
+
+#: locale_test/getTextLocale.py:4
+msgid "Sample Title Text English"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:101 eos/saveddata/targetProfile.py:192
+#: eos/saveddata/targetProfile.py:195 eos/saveddata/targetProfile.py:198
+#: eos/saveddata/targetProfile.py:201 eos/saveddata/targetProfile.py:204
+#: eos/saveddata/targetProfile.py:207 eos/saveddata/targetProfile.py:210
+#: eos/saveddata/targetProfile.py:213 eos/saveddata/targetProfile.py:216
+#: eos/saveddata/targetProfile.py:219 eos/saveddata/targetProfile.py:222
+#: eos/saveddata/targetProfile.py:225 eos/saveddata/targetProfile.py:228
+msgid "Sansha"
+msgstr "산샤"
+
+#: eos/saveddata/damagePattern.py:157 eos/saveddata/targetProfile.py:80
+#: gui/builtinContextMenus/envEffectAdd.py:124
+msgid "Sansha Incursion"
+msgstr "산샤 침공"
+
+#: eos/saveddata/damagePattern.py:109 eos/saveddata/damagePattern.py:127
+#: eos/saveddata/targetProfile.py:64 eos/saveddata/targetProfile.py:70
+msgid "Sanshas Nation"
+msgstr "산샤 제국"
+
+#: gui/mainFrame.py:858
+msgid "Save Backup As..."
+msgstr "새 이름으로 백업 저장"
+
+#: gui/builtinItemStatsViews/itemAttributes.py:117
+msgid "Save CSV file"
+msgstr "CSV 파일로 저장하기"
+
+#: gui/mainMenuBar.py:114
+msgid "Save Character &As..."
+msgstr "캐릭터 저장하기.."
+
+#: gui/characterEditor.py:282
+msgid "Save Character As..."
+msgstr "새 이름으로 캐릭터 저장"
+
+#: gui/builtinPreferenceViews/pyfaHTMLExportPreferences.py:48
+#: gui/mainFrame.py:465
+msgid "Save Fitting As..."
+msgstr "새 이름으로 피팅 저장"
+
+#: gui/propertyEditor.py:130
+msgid "Save Overrides As..."
+msgstr "새 이름으로 오버라이드 저장"
+
+#: gui/builtinContextMenus/implantSetSave.py:27
+msgid "Save as New Implant Set"
+msgstr "새 임플란트 세트로 저장하기"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:64
+msgid "Scan res."
+msgstr "스캔 해상도"
+
+#: eos/saveddata/damagePattern.py:91
+msgid "Scorch Bomb"
+msgstr "스코치 폭탄"
+
+#: eos/saveddata/damagePattern.py:88
+msgid "Scourge"
+msgstr "스커지"
+
+#: gui/builtinShipBrowser/navigationPanel.py:61
+msgid "Search fittings"
+msgstr "피팅 검색"
+
+#: gui/characterEditor.py:356
+#, python-brace-format
+msgid "Sec Status: {0:.2f}"
+msgstr "시큐리티 상태: {0:.2f}"
+
+#: gui/characterEditor.py:914
+msgid "Security Status is used in some CONCORD hull calculations"
+msgstr "시큐리티 상태는 CONCORD의 선체량 계산에 사용됩니다."
+
+#: eos/saveddata/damagePattern.py:102 eos/saveddata/targetProfile.py:101
+#: eos/saveddata/targetProfile.py:108 eos/saveddata/targetProfile.py:115
+#: eos/saveddata/targetProfile.py:122 eos/saveddata/targetProfile.py:129
+#: eos/saveddata/targetProfile.py:136 eos/saveddata/targetProfile.py:143
+#: eos/saveddata/targetProfile.py:150 eos/saveddata/targetProfile.py:157
+#: eos/saveddata/targetProfile.py:164 eos/saveddata/targetProfile.py:171
+#: eos/saveddata/targetProfile.py:178 eos/saveddata/targetProfile.py:185
+msgid "Seeker"
+msgstr "씨커"
+
+#: gui/copySelectDialog.py:62
+msgid "Select a format"
+msgstr "포맷 선택"
+
+#: gui/esiFittings.py:318
+msgid "Sending request and awaiting response"
+msgstr "요청을 보내고 응답을 기다리는중"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:65
+msgid "Sensor str."
+msgstr "센서 강도"
+
+#: eos/saveddata/damagePattern.py:122 eos/saveddata/targetProfile.py:92
+msgid "Sentinel"
+msgstr "센티널"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:122
+msgid "Separate Racks"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:110 eos/saveddata/damagePattern.py:128
+#: eos/saveddata/targetProfile.py:65 eos/saveddata/targetProfile.py:71
+msgid "Serpentis"
+msgstr "서펜티스"
+
+#: gui/builtinViewColumns/baseName.py:64
+msgid "Service"
+msgstr "서비스"
+
+#: gui/characterEditor.py:907
+msgid "Set Security Status"
+msgstr "시큐리티 상태 설정"
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:41
+msgid "Set as Damage Pattern"
+msgstr "데미지 패턴 설정"
+
+#: gui/builtinPreferenceViews/pyfaHTMLExportPreferences.py:53
+msgid "Set export destination"
+msgstr "내보내기 경로 설정"
+
+#: gui/builtinContextMenus/ammoToDmgPattern.py:32
+msgid "Set {} as Damage Pattern"
+msgstr ""
+
+#: gui/setEditor.py:229
+msgid "Sets exported to clipboard"
+msgstr "설정을 클립보드에 내보냈습니다"
+
+#: gui/characterEditor.py:326
+msgid "Setting an Alpha clone does not replace the character's skills, but rather caps them to Alpha levels."
+msgstr ""
+
+#: gui/builtinContextMenus/shipModeChange.py:20
+msgid "Sharpshooter"
+msgstr "저격모드"
+
+#: eos/saveddata/targetProfile.py:46
+msgid "Shield"
+msgstr "실드"
+
+#: eos/saveddata/targetProfile.py:49
+msgid "Shield (+T2 DCU)"
+msgstr ""
+
+#: graphs/data/fitShieldRegen/graph.py:38
+msgid "Shield Regeneration"
+msgstr "실드 회복"
+
+#: graphs/data/fitShieldRegen/graph.py:42
+#: graphs/data/fitShieldRegen/graph.py:55
+#: graphs/data/fitShieldRegen/graph.py:56
+#: graphs/data/fitShieldRegen/graph.py:61
+msgid "Shield amount"
+msgstr "실드량"
+
+#: graphs/data/fitShieldRegen/graph.py:62
+msgid "Shield regen"
+msgstr "실드 회복"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:112
+msgid "Shield resistance"
+msgstr "실드 저항력"
+
+#: gui/builtinStatsViews/outgoingViewMinimal.py:37
+#: gui/builtinStatsViews/outgoingViewFull.py:38
+msgid "Shield restored"
+msgstr "실드 회복됨"
+
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:58
+msgid "Shield/Armor Tank"
+msgstr "실드/장갑 탱킹"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:206
+msgid "Shield: "
+msgstr "실드: "
+
+#: gui/builtinViews/fittingView.py:664
+#: gui/builtinStatsViews/priceViewMinimal.py:57
+#: gui/builtinStatsViews/priceViewFull.py:57
+msgid "Ship"
+msgstr "함선"
+
+#: gui/builtinShipBrowser/shipItem.py:111
+msgid "Ship Basic"
+msgstr ""
+
+#: gui/builtinShipBrowser/navigationPanel.py:48
+msgid "Ship groups"
+msgstr "함선 그룹"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:117
+msgid "Ship hold"
+msgstr "함선 창고"
+
+#: gui/builtinContextMenus/moduleAmmoChange.py:100
+msgid "Short Range"
+msgstr "단거리"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:126
+msgid "Show Rack Labels"
+msgstr ""
+
+#: gui/builtinShipBrowser/navigationPanel.py:151
+msgid "Show empty ship groups"
+msgstr "비어있는 함선 그룹 보이기"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:130
+msgid "Show fitting tab tooltips"
+msgstr ""
+
+#: graphs/gui/ctrlPanel.py:71
+msgid "Show legend"
+msgstr "범례 보기"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:52
+msgid "Show market shortcuts"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:140
+msgid "Show ship browser tooltip"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:93
+msgid "Shrapnel Bomb"
+msgstr "세열폭탄"
+
+#: gui/builtinContextMenus/boosterSideEffects.py:34
+msgid "Side Effects"
+msgstr "부작용"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:88
+msgid "Signature"
+msgstr "시그니처"
+
+#: gui/targetProfileEditor.py:125
+msgid "Signature radius\n"
+"Leave blank for infinitely big value"
+msgstr "시그니처 반경을 무한하게 하려면 이 칸을 비우세요"
+
+#: graphs/data/fitEwarStats/graph.py:42
+msgid "Signature radius increase"
+msgstr "시그니처 반경 증가"
+
+#: gui/aboutData.py:33
+msgid "Silk Icons Set by famfamfam.com - Creative Commons Attribution 2.5 License"
+msgstr ""
+
+#: gui/characterEditor.py:342 gui/characterEditor.py:608
+msgid "Skill"
+msgstr "스킬"
+
+#: gui/characterEditor.py:160
+msgid "Skills"
+msgstr "스킬들"
+
+#: gui/characterSelection.py:242
+msgid "Skills required:"
+msgstr "필요한 스킬:"
+
+#: eos/saveddata/damagePattern.py:103 eos/saveddata/targetProfile.py:79
+#: eos/saveddata/targetProfile.py:104 eos/saveddata/targetProfile.py:111
+#: eos/saveddata/targetProfile.py:118 eos/saveddata/targetProfile.py:125
+#: eos/saveddata/targetProfile.py:132 eos/saveddata/targetProfile.py:139
+#: eos/saveddata/targetProfile.py:146 eos/saveddata/targetProfile.py:153
+#: eos/saveddata/targetProfile.py:160 eos/saveddata/targetProfile.py:167
+#: eos/saveddata/targetProfile.py:174 eos/saveddata/targetProfile.py:181
+#: eos/saveddata/targetProfile.py:188
+msgid "Sleeper"
+msgstr "슬리퍼"
+
+#: eos/saveddata/damagePattern.py:161 eos/saveddata/targetProfile.py:232
+msgid "Sleeper Entities"
+msgstr "슬리퍼 객체"
+
+#: eos/saveddata/damagePattern.py:158
+msgid "Sleepers"
+msgstr "슬리퍼들"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:118
+msgid "Small ship hold"
+msgstr "소형 ㅎ마선 창고"
+
+#: graphs/style.py:86
+msgid "Solid"
+msgstr "고체"
+
+#: graphs/data/fitMobility/graph.py:35
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:86
+msgid "Speed"
+msgstr "속도"
+
+#: graphs/data/fitEwarStats/graph.py:37
+msgid "Speed reduction"
+msgstr "속도 저하"
+
+#: gui/builtinContextMenus/droneSplitStack.py:29
+msgid "Split {} Stack"
+msgstr "{}개로 분할하기"
+
+#: gui/builtinStatsViews/firepowerViewFull.py:169
+msgid "Spool up"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:76
+msgid "Spoolup"
+msgstr ""
+
+#: gui/builtinContextMenus/moduleSpool.py:37
+msgid "Spoolup Cycles"
+msgstr ""
+
+#: gui/builtinStatsViews/capacitorViewFull.py:170
+msgid "Stable: "
+msgstr "안정: "
+
+#: eos/saveddata/damagePattern.py:48
+msgid "Standard"
+msgstr "스탠다드"
+
+#: graphs/data/fitCapacitor/graph.py:46
+msgid "Starting cap amount"
+msgstr ""
+
+#: graphs/data/fitShieldRegen/graph.py:46
+msgid "Starting shield amount"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaStatViewPreferences.py:22
+msgid "Statistics Panel"
+msgstr ""
+
+#: gui/builtinContextMenus/graphDmgDroneMode.py:45
+msgid "Stick to Attacker"
+msgstr ""
+
+#: gui/builtinContextMenus/graphDmgDroneMode.py:44
+msgid "Stick to Target"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:145 eos/saveddata/damagePattern.py:148
+msgid "Subcaps"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:136
+#, no-python-format
+msgid "Subcaps w/missiles 0% spool up"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:142
+#, no-python-format
+msgid "Subcaps w/missiles 100% spool up"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:139
+#, no-python-format
+msgid "Subcaps w/missiles 50% spool up"
+msgstr ""
+
+#: gui/builtinViewColumns/baseName.py:62
+msgid "Subsystem"
+msgstr "서브시스템"
+
+#: gui/characterEditor.py:901
+msgid "Success"
+msgstr "성공"
+
+#: gui/characterEditor.py:901
+msgid "Successfully fetched skills"
+msgstr "성공적으로 스킬을 불러왔습니다."
+
+#: eos/saveddata/damagePattern.py:114 eos/saveddata/targetProfile.py:84
+msgid "Succubus (Sanshas Nation)"
+msgstr "서큐버스 (산샤 제국)"
+
+#: gui/builtinAdditionPanes/fighterView.py:62
+msgid "Support"
+msgstr "지원"
+
+#: gui/builtinPreferenceViews/pyfaUpdatePreferences.py:48
+#, python-brace-format
+msgid "Suppressing {0} Notifications"
+msgstr "{0}개의 알림 무시중"
+
+#: gui/builtinStatsViews/rechargeViewFull.py:87
+msgid "Sustained"
+msgstr "지속됨"
+
+#: eos/saveddata/targetProfile.py:46 eos/saveddata/targetProfile.py:47
+#: eos/saveddata/targetProfile.py:48 eos/saveddata/targetProfile.py:49
+#: eos/saveddata/targetProfile.py:50 eos/saveddata/targetProfile.py:51
+msgid "T1 Resist"
+msgstr "T1 저항력"
+
+#: eos/saveddata/targetProfile.py:52 eos/saveddata/targetProfile.py:53
+#: eos/saveddata/targetProfile.py:54 eos/saveddata/targetProfile.py:55
+#: eos/saveddata/targetProfile.py:56 eos/saveddata/targetProfile.py:57
+#: eos/saveddata/targetProfile.py:58 eos/saveddata/targetProfile.py:59
+msgid "T2 Resist"
+msgstr "T2 저항력"
+
+#: graphs/data/fitEwarStats/graph.py:40
+msgid "TDs: turret optimal range reduction"
+msgstr "트래킹 교란: 터렛 최적사거리 감소"
+
+#: graphs/data/fitEwarStats/graph.py:42
+msgid "TPs: signature radius increase"
+msgstr "타겟 지시: 시그니처 반경 증가"
+
+#: gui/builtinViews/fittingView.py:660 gui/builtinViewColumns/baseName.py:102
+#: gui/builtinContextMenus/shipModeChange.py:37
+msgid "Tactical Mode"
+msgstr "추진 모드"
+
+#: eos/saveddata/damagePattern.py:121 eos/saveddata/targetProfile.py:91
+msgid "Talos"
+msgstr "탈로스"
+
+#: graphs/data/fitDamageStats/graph.py:75 graphs/gui/lists.py:359
+msgid "Target"
+msgstr "타겟"
+
+#: gui/targetProfileEditor.py:86
+msgid "Target Profile"
+msgstr "타겟 프로필"
+
+#: gui/targetProfileEditor.py:130
+msgid "Target Profile Editor"
+msgstr "타겟 프로필 편집기"
+
+#: gui/targetProfileEditor.py:73
+msgid "Target Profile name already in use, please choose another."
+msgstr "해당 타겟 프로필 이름은 이미 사용중입니다."
+
+#: gui/builtinContextMenus/targetProfile/switcher.py:33
+msgid "Target Resists"
+msgstr "대상 저항력"
+
+#: graphs/data/fitMobility/graph.py:39
+msgid "Target distance traveled"
+msgstr ""
+
+#: graphs/data/fitMobility/graph.py:45
+msgid "Target inertia factor"
+msgstr ""
+
+#: graphs/data/fitMobility/graph.py:43
+msgid "Target mass"
+msgstr "타겟 질량"
+
+#: graphs/data/fitEwarStats/graph.py:45
+msgid "Target resistance"
+msgstr "타겟 저항력"
+
+#: graphs/data/fitLockTime/graph.py:37 graphs/data/fitDamageStats/graph.py:71
+msgid "Target signature"
+msgstr "타겟 시그니처"
+
+#: graphs/data/fitLockTime/graph.py:35 graphs/data/fitDamageStats/graph.py:62
+#: graphs/data/fitDamageStats/graph.py:63
+msgid "Target signature radius"
+msgstr "타겟 시그니처 크기"
+
+#: graphs/data/fitMobility/graph.py:38 graphs/data/fitDamageStats/graph.py:60
+#: graphs/data/fitDamageStats/graph.py:61
+#: graphs/data/fitDamageStats/graph.py:70
+msgid "Target speed"
+msgstr "타겟 속도"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:40
+msgid "Targeting && Misc"
+msgstr "타겟팅 && 기타"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:62
+msgid "Targets"
+msgstr "타겟"
+
+#: eos/saveddata/damagePattern.py:60
+msgid "Tetryon"
+msgstr "테트리온"
+
+#: gui/mainFrame.py:809
+msgid "Text skills training file"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaEnginePreferences.py:72
+msgid "The amount of spoolup to use by default on module which support it. Can be changed on a per-module basis"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:44
+msgid "The delay between a keystroke and the market search. Can help reduce lag when typing fast in the market search box."
+msgstr ""
+
+#: gui/mainFrame.py:949
+msgid "The following error was generated"
+msgstr "다음 오류가 발생했습니다."
+
+#: gui/mainFrame.py:893
+msgid "The following path is invalid or does not exist:"
+msgstr "다음 경로가 유효하지 않거나 존재하지 않습니다:"
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:64
+msgid "The source you choose will be tried first, but subsequent sources will be used if the preferred source fails. The system you choose will also be tried first, and if no data is available, global price will be used."
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaUpdatePreferences.py:53
+msgid "There is a release available which you have chosen to suppress. You can choose to reset notification suppression for this release, or download the new release from GitHub."
+msgstr ""
+
+#: gui/characterEditor.py:463
+msgid "There was an error importing skills, please see log file"
+msgstr "스킬을 가져오는데 실패했습니다. 로그 파일을 참고해주세요"
+
+#: gui/esiFittings.py:230
+msgid "There was an error validating characters' SSO token. Please try logging into the character again to reset the token."
+msgstr ""
+
+#: gui/esiFittings.py:213
+msgid "There was an issue starting up the localized server, try setting Login Authentication Method to Manual by going to Preferences -> EVE SS0 -> Login Authentication Method. If this doesn't fix the problem please file an issue on Github."
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:40
+#: gui/builtinContextMenus/moduleAmmoChange.py:25
+msgid "Thermal"
+msgstr "열"
+
+#: gui/builtinStatsViews/resistancesViewFull.py:86
+#: gui/targetProfileEditor.py:120
+msgid "Thermal resistance"
+msgstr "열 저항력"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:107
+msgid "This is a destructive action that will delete all cached prices out of the database.\n"
+"Are you sure you want to do this?"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:97
+msgid "This is a destructive action that will delete all damage pattern profiles.\n"
+"Are you sure you want to do this?"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:102
+msgid "This is a destructive action that will delete all target profiles.\n"
+"Are you sure you want to do this?"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:49
+msgid "This option goes through EVE SSO directly, but requires more configuration. Use this if pyfa.io is blocked for some reason, or if you do not wish to route data throguh pyfa.io."
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:42
+msgid "This option prompts users to copy and paste information from the web application to allow for character login. Use this if having issues with the local server."
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:47
+msgid "This options routes SSO Logins through pyfa.io, allowing you to easily login without any configuration. When in doubt, use this option."
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:40
+msgid "This options starts a local webserver that the web application will call back to with information about the character login."
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:68
+msgid "Thorium"
+msgstr "토륨"
+
+#: eos/saveddata/damagePattern.py:156
+msgid "Thukker"
+msgstr "터커"
+
+#: graphs/data/fitMobility/graph.py:33 graphs/data/fitMobility/graph.py:41
+#: graphs/data/fitCapacitor/graph.py:34 graphs/data/fitCapacitor/graph.py:41
+#: graphs/data/fitRemoteReps/graph.py:51 graphs/data/fitRemoteReps/graph.py:56
+#: graphs/data/fitShieldRegen/graph.py:40
+#: graphs/data/fitShieldRegen/graph.py:54
+#: graphs/data/fitDamageStats/graph.py:59
+#: graphs/data/fitDamageStats/graph.py:68
+msgid "Time"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:80
+msgid "Titanium Sabot"
+msgstr "티타늄 사봇"
+
+#: gui/builtinItemStatsViews/itemAffectedBy.py:70
+msgid "Toggle Names"
+msgstr ""
+
+#: gui/builtinItemStatsViews/itemAffectedBy.py:73
+msgid "Toggle View"
+msgstr ""
+
+#: gui/builtinItemStatsViews/itemCompare.py:75
+msgid "Toggle view mode"
+msgstr ""
+
+#: gui/builtinStatsViews/priceViewMinimal.py:57
+#: gui/builtinStatsViews/miningyieldViewFull.py:89
+#: gui/builtinStatsViews/priceViewFull.py:58
+msgid "Total"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaMarketPreferences.py:76
+msgid "Total Price Includes"
+msgstr ""
+
+#: graphs/data/fitRemoteReps/graph.py:54
+msgid "Total repaired"
+msgstr ""
+
+#: gui/builtinStatsViews/capacitorViewFull.py:67
+msgid "Total: "
+msgstr "합계: "
+
+#: gui/itemStats.py:166
+msgid "Traits"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:104 eos/saveddata/targetProfile.py:102
+#: eos/saveddata/targetProfile.py:109 eos/saveddata/targetProfile.py:116
+#: eos/saveddata/targetProfile.py:123 eos/saveddata/targetProfile.py:130
+#: eos/saveddata/targetProfile.py:137 eos/saveddata/targetProfile.py:144
+#: eos/saveddata/targetProfile.py:151 eos/saveddata/targetProfile.py:158
+#: eos/saveddata/targetProfile.py:165 eos/saveddata/targetProfile.py:172
+#: eos/saveddata/targetProfile.py:179 eos/saveddata/targetProfile.py:186
+msgid "Triglavian"
+msgstr "트리글라비안"
+
+#: eos/saveddata/damagePattern.py:130 eos/saveddata/damagePattern.py:131
+#: eos/saveddata/damagePattern.py:134 eos/saveddata/damagePattern.py:137
+#: eos/saveddata/damagePattern.py:140 eos/saveddata/targetProfile.py:94
+msgid "Triglavian Entities"
+msgstr "트리글라비안 객체"
+
+#: gui/builtinContextMenus/envEffectAdd.py:126
+#: gui/builtinContextMenus/envEffectAdd.py:128
+msgid "Triglavian Invasion"
+msgstr "트리글라비안 침공"
+
+#: eos/saveddata/damagePattern.py:65
+msgid "Tungsten"
+msgstr "텅스텐"
+
+#: gui/builtinStatsViews/resourcesViewFull.py:111
+msgid "Turret hardpoints"
+msgstr "터렛 하드포인트"
+
+#: graphs/data/fitEwarStats/graph.py:40
+msgid "Turret optimal range reduction"
+msgstr "터렛 유효사거리 저하"
+
+#: gui/builtinItemStatsViews/itemEffects.py:32
+msgid "Type"
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:218
+#, python-brace-format
+msgid "Type: {0}\n"
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:222
+msgid "Type: {}"
+msgstr "타입: {}"
+
+#: eos/saveddata/damagePattern.py:49
+msgid "Ultraviolet"
+msgstr "울트라바이올렛"
+
+#: gui/mainMenuBar.py:83
+msgid "Undo the most recent action"
+msgstr "가장 최근 작업 취소"
+
+#: eos/saveddata/damagePattern.py:38
+msgid "Uniform"
+msgstr "균등"
+
+#: eos/saveddata/targetProfile.py:42
+msgid "Uniform (25%)"
+msgstr "균등 (25%)"
+
+#: eos/saveddata/targetProfile.py:43
+msgid "Uniform (50%)"
+msgstr "균등 (50%)"
+
+#: eos/saveddata/targetProfile.py:44
+msgid "Uniform (75%)"
+msgstr "균등 (75%)"
+
+#: eos/saveddata/targetProfile.py:45
+msgid "Uniform (90%)"
+msgstr "균등 (90%)"
+
+#: gui/characterEditor.py:614
+msgid "Unlearn"
+msgstr ""
+
+#: gui/updateDialog.py:54
+msgid "Update Available"
+msgstr "업데이트 가능"
+
+#: gui/builtinPreferenceViews/pyfaUpdatePreferences.py:14
+msgid "Updates"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:69
+msgid "Uranium"
+msgstr "우랴늄"
+
+#: gui/builtinAdditionPanes/implantView.py:68
+msgid "Use Character Implants"
+msgstr "캐릭터 임플란트 사용"
+
+#: gui/builtinAdditionPanes/implantView.py:67
+msgid "Use Fit-specific Implants"
+msgstr "피팅에 지정된 임플란트 사용"
+
+#: graphs/data/fitCapacitor/graph.py:48
+msgid "Use capacitor simulator"
+msgstr "캐패시터 시뮬레이터 사용"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:102
+msgid "Use character implants by default for new fits"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:98
+msgid "Use global character"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:106
+msgid "Use global damage pattern"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaNetworkPreferences.py:121
+msgid "Username:"
+msgstr "사용자명:"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:34
+msgid "Using Executable Path for Saved Fit Database and Settings"
+msgstr ""
+
+#: gui/builtinContextMenus/itemVariationChange.py:49
+#: gui/builtinPreferenceViews/pyfaContextMenuPreferences.py:51
+msgid "Variations"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:119 eos/saveddata/targetProfile.py:89
+msgid "Vengeance"
+msgstr ""
+
+#: gui/builtinItemStatsViews/itemAttributes.py:53
+msgid "View Raw Data"
+msgstr ""
+
+#: graphs/data/fitDamageStats/graph.py:84
+msgid "Volley"
+msgstr "일제 사격"
+
+#: gui/builtinContextMenus/fitSystemSecurity.py:22
+msgid "W-Space"
+msgstr "W-Space"
+
+#: gui/ssoLogin.py:62
+msgid "Waiting for character login through EVE Single Sign-On."
+msgstr ""
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:210
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:212
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:243
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:245
+#, python-format
+msgid "Warp Core Strength: %.1f"
+msgstr "워프 코어 강도: %.1f"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:89
+msgid "Warp Speed"
+msgstr "워프 속도"
+
+#: graphs/data/fitWarpTime/graph.py:45
+msgid "Warp Time"
+msgstr "워프 시간"
+
+#: graphs/data/fitWarpTime/graph.py:49
+msgid "Warp time"
+msgstr "워프 시간"
+
+#: gui/builtinStatsViews/firepowerViewFull.py:67
+msgid "Weapon"
+msgstr "무기"
+
+#: graphs/data/fitEwarStats/graph.py:37
+msgid "Webs: speed reduction"
+msgstr "웹: 속도 저하"
+
+#: gui/builtinPreferenceViews/pyfaEnginePreferences.py:61
+msgid "When damage profile is Uniform, set Reactive Armor Hardener to match (old behavior)."
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:149
+msgid "When disabled, reloads charges just in selected modules. Action can be reversed by holding Ctrl or Alt key while changing charge."
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaEnginePreferences.py:54
+msgid "When enabled, skills will check their dependencies' requirements when their levels change and reset skills that no longer meet the requirement.\n"
+"eg: Setting Drones from level V to IV will reset the Heavy Drone Operation skill, as that requires Drones V"
+msgstr ""
+
+#: graphs/data/fitDamageStats/graph.py:69
+msgid "When set, uses attacker's exact damage stats at a given time\n"
+"When not set, uses attacker's damage stats as shown in stats panel of main window"
+msgstr ""
+
+#: graphs/data/fitRemoteReps/graph.py:57
+msgid "When set, uses repairing ship's exact RR stats at a given time\n"
+"When not set, uses repairing ship's RR stats as shown in stats panel of main window"
+msgstr ""
+
+#: eos/saveddata/damagePattern.py:115 eos/saveddata/targetProfile.py:85
+msgid "Worm (Guristas)"
+msgstr "웜 (구리스타스)"
+
+#: gui/builtinContextMenus/envEffectAdd.py:116
+msgid "Wormhole"
+msgstr "웜홀"
+
+#: eos/saveddata/damagePattern.py:50
+msgid "Xray"
+msgstr "엑스레이"
+
+#: graphs/style.py:59
+msgid "Yellow"
+msgstr ""
+
+#: gui/builtinItemStatsViews/itemEffects.py:56
+msgid "Yes"
+msgstr "예"
+
+#: gui/characterEditor.py:757
+msgid "You cannot link All 0 or All 5 characters to an EVE character."
+msgstr "이브 캐릭터에는 전체 스킬 0 혹은 5 캐릭터를 링크할 수 없습니다."
+
+#: gui/characterEditor.py:76
+msgid "You must supply a name for the Character!"
+msgstr "이 캐릭터의 이름을 입력해주세요"
+
+#: gui/setEditor.py:48
+msgid "You must supply a name for the Implant Set!"
+msgstr "이 임플란트 세트의 이름을 입력해주세요"
+
+#: gui/patternEditor.py:51
+msgid "You must supply a name for your Damage Profile!"
+msgstr "이 데미지 프로필의 이름을 입력해주세요"
+
+#: gui/targetProfileEditor.py:71
+msgid "You must supply a name for your Target Profile!"
+msgstr "이 타겟 프로필의 이름을 입력해주세요"
+
+#: eos/saveddata/damagePattern.py:43
+msgid "[T2] Aurora"
+msgstr "[T2] 오로라"
+
+#: eos/saveddata/damagePattern.py:75
+msgid "[T2] Barrage"
+msgstr "[T2] 배러지"
+
+#: eos/saveddata/damagePattern.py:54
+msgid "[T2] Conflagration"
+msgstr "[T2] 컨플래그레이션"
+
+#: eos/saveddata/damagePattern.py:53
+msgid "[T2] Gleam"
+msgstr "[T2] 글림"
+
+#: eos/saveddata/damagePattern.py:85
+msgid "[T2] Hail"
+msgstr "[T2] 헤일"
+
+#: eos/saveddata/damagePattern.py:72
+msgid "[T2] Javelin"
+msgstr "[T2] 자벨린"
+
+#: eos/saveddata/damagePattern.py:57
+msgid "[T2] Mystic"
+msgstr "[T2] 미스틱"
+
+#: eos/saveddata/damagePattern.py:63
+msgid "[T2] Null"
+msgstr "[T2] 널"
+
+#: eos/saveddata/damagePattern.py:61
+msgid "[T2] Occult"
+msgstr "[T2] 오컬트"
+
+#: eos/saveddata/damagePattern.py:84
+msgid "[T2] Quake"
+msgstr "[T2] 퀘이크"
+
+#: eos/saveddata/damagePattern.py:44
+msgid "[T2] Scorch"
+msgstr "[T2] 스코치"
+
+#: eos/saveddata/damagePattern.py:62
+msgid "[T2] Spike"
+msgstr "[T2] 스파이크"
+
+#: eos/saveddata/damagePattern.py:74
+msgid "[T2] Tremor"
+msgstr "[T2] 트레머"
+
+#: eos/saveddata/damagePattern.py:73
+msgid "[T2] Void"
+msgstr "[T2] 보이드"
+
+#: eos/utils/stats.py:123
+msgid "em"
+msgstr "em"
+
+#: eos/utils/stats.py:123
+msgid "exp"
+msgstr "exp"
+
+#: eos/utils/stats.py:123
+msgid "explosive"
+msgstr "폭발"
+
+#: eos/utils/stats.py:123
+msgid "kin"
+msgstr "kin"
+
+#: eos/utils/stats.py:123
+msgid "kinetic"
+msgstr "키네틱"
+
+#: gui/builtinPreferenceViews/pyfaDatabasePreferences.py:38
+msgid "pyfa User Path:"
+msgstr "pyfa 사용자 경로:"
+
+#: gui/errorDialog.py:69
+msgid "pyfa error"
+msgstr "pyfa 에러"
+
+#: gui/errorDialog.py:76
+msgid "pyfa has experienced an unexpected issue. Below is a message that contains crucial \n"
+"information about how this was triggered. Please contact the developers with the \n"
+"information provided through the EVE Online forums or file a GitHub issue."
+msgstr ""
+
+#: gui/aboutData.py:31
+msgid "pyfa is released under GNU GPLv3 - see included LICENSE file"
+msgstr ""
+
+#: gui/propertyEditor.py:108
+msgid "pyfa override file"
+msgstr ""
+
+#: gui/propertyEditor.py:131
+msgid "pyfa overrides"
+msgstr ""
+
+#: gui/builtinPreferenceViews/pyfaEsiPreferences.py:46
+msgid "pyfa.io"
+msgstr "pyfa.io"
+
+#: gui/builtinPreferenceViews/pyfaGeneralPreferences.py:47
+msgid "pyfa:"
+msgstr "pyfa:"
+
+#: eos/utils/stats.py:123
+msgid "th"
+msgstr "th"
+
+#: eos/utils/stats.py:123
+msgid "thermal"
+msgstr "열"
+
+#: gui/builtinContextMenus/itemMarketJump.py:44
+#, python-brace-format
+msgid "{0} Market Group"
+msgstr "{0} 거래소 그룹"
+
+#: gui/itemStats.py:87
+#, python-brace-format
+msgid "{context}Stats: {name}{debug_info}"
+msgstr ""
+
+#: gui/pyfa_gauge.py:347
+#, python-brace-format
+msgid "{{0:.{0}f}} left"
+msgstr "{{0:.{0}f}} 남음"
+
+#: gui/pyfa_gauge.py:344
+#, python-brace-format
+msgid "{{0:.{0}f}} over"
+msgstr "{{0:.{0}f}} 초과"
+
+#: gui/builtinContextMenus/moduleSpool.py:83
+msgid "{} (default)"
+msgstr "{} (기본)"
+
+#: gui/characterEditor.py:284
+msgid "{} Copy"
+msgstr "{} 복사"
+
+#: gui/builtinContextMenus/itemStats.py:38
+msgid "{} Stats"
+msgstr "{} 속성"
+
+#: gui/builtinViewColumns/baseName.py:104
+msgid "{} {} Slot"
+msgid_plural "{} {} Slots"
+msgstr[0] "{} {} 슬롯"
+
+#: gui/builtinStatsViews/targetingMiscViewMinimal.py:220
+#, no-python-format, python-brace-format
+msgid "{}% chance to be jammed"
+msgstr "{}% 확률로 재밍당함"
+
