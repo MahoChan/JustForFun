@@ -1,4 +1,4 @@
-# TVBox的简要配置方法
+# TVBox系列软件的简要配置方法
 
 ---
 
@@ -61,6 +61,7 @@ TVBox 是一款开源的，自定义添加站源的影音工具。TVBox 本身�
 
 使用多源仓库文件：https://raw.liucn.cc/box/dm.txt
 
+如果网络问题无法加载图片请访问 ： 
 1. ![step1](Usage_img/1.jpg)
 - 安装并打开影视仓
 2. ![step2](Usage_img/2.jpg)
@@ -84,7 +85,24 @@ TVBox 是一款开源的，自定义添加站源的影音工具。TVBox 本身�
 10. ![step10](Usage_img/10.jpg)
 - 快捷切换数据源
 11. ![step11](Usage_img/11.jpg)
-- 祝您观影愉快!
+- 您可以愉快的观影了。
+
+12. ![step12](Usage_img/12.jpg)
+- 如果希望观看直播，可以进入直播页面，并配置直播地址，刚刚导入的仓库地址中有些已经配置了直播地址，因此不需额外操作就能观看。
+- 如果希望添加其它直播地址，可以根据 [IPTV源](https://www.githubs.cn/projects/157616880-iptv) 进行配置。
+13. ![step13](Usage_img/13.jpg)
+- 直播示例
+
+14. ![step14](Usage_img/14.jpg)
+- 直播示例
+
+15. ![step15](Usage_img/15.jpg)
+- 直播示例
+
+16. ![step16](Usage_img/16.jpg)
+- 直播示例
+
+祝您观影愉快！
 
 ## 6.多系统的使用
 -  Windows 系统可以通过使用模拟器实现观影，测试过程使用的是网易的手游模拟器 [MuMu模拟器](https://mumu.163.com/)。
