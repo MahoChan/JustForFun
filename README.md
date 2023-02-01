@@ -44,3 +44,19 @@ Project link :
 - https://github.com/pyfa-org/Pyfa
 
 >Pyfa可以帮你玩EVE时配置舰船。
+
+### 5.HowToLiveLonger
+Description:
+>You can get some suggestions from this guide and live longer.
+Project link : 
+- https://github.com/geekan/HowToLiveLonger
+
+>延寿指南
+
+### 6.free-programming-books-zh_CN
+Description:
+>You can read some programming books for free.
+Project link : 
+- https://github.com/justjavac/free-programming-books-zh_CN
+
+> 免费编程书籍
