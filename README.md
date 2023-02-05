@@ -43,15 +43,15 @@ Description:
 Project link : 
 - https://github.com/pyfa-org/Pyfa
 
->Pyfa可以帮你玩EVE时配置舰船。
+>玩EVE时，Pyfa可以帮你配置舰船，免得花冤枉钱。
 
 ### 5.HowToLiveLonger
 Description:
->You can get some suggestions from this guide and live longer.
+>You can get some suggestions from this guide to live longer.
 Project link : 
 - https://github.com/geekan/HowToLiveLonger
 
->延寿指南
+>有一定来源依据的延寿指南，还想再活500年。
 
 ### 6.free-programming-books-zh_CN
 Description:
@@ -59,4 +59,12 @@ Description:
 Project link : 
 - https://github.com/justjavac/free-programming-books-zh_CN
 
-> 免费编程书籍
+> 查看、学习免费的编程书籍
+
+### 7.ZeroTierOne
+Description:
+>You can use ZeroTierOne for intranet penetration on Router, Windows, Android, Ios, MacOs, Linux, NAS and FreeBSD.
+Project link : 
+- https://github.com/zerotier/ZeroTierOne
+
+> 在多个平台上进行内网穿透，包括路由器，Windows, Android, Ios, MacOs, Linux, NAS, FreeBSD。
